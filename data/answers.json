@@ -1,0 +1,204 @@
+{
+  "sources": [
+    {
+      "title": "Stanton Friedman - UFO frauds: Bob Lazar...",
+      "url": "https://www.youtube.com/watch?v=ym1pVpCLsUI",
+      "transcript": "stanton1.txt",
+      "index": 1
+    },
+    {
+      "title": "Stanton Friedman - THE BOB LAZAR FRAUD",
+      "url": "https://web.archive.org/web/20200219063422/http://www.stantonfriedman.com/index.php?ptp=articles&fdt=2011.01.07",
+      "transcript": "stanton2.txt",
+      "index": 2
+    },
+    {
+      "title": "JackFrost71 Bob Lazar's story, is it believable?. Here is some of my research on him ",
+      "url": "https://www.reddit.com/r/UFOs/comments/oyxuok/bob_lazars_story_is_it_believable_here_is_some_of/",
+      "transcript": "jackfrost.txt",
+      "index": 3
+    }
+  ],
+  "allegations": [
+    {
+      "allegation": "Cal-tech has no records of Bob Lazar's engineering master's degree.",
+      "answer": "Cal-tech does not publish its list of master graduates nor does the education conclude with a master's thesis. All information related to Lazar could have been easily classified (See Executive Order 12356 1.3/10).",
+      "type": "education"
+    },
+    {
+      "allegation": "M.I.T. has no records of Bob Lazar's master's degree in physics.",
+      "answer": "Everything at M.I.T. including a student's records can be classified. (See Executive Order 12356 1.3/10)",
+      "type": "education"
+    },
+    {
+      "allegation": "There is no evidence that Bob Lazar wrote a master's thesis at M.I.T.",
+      "answer": "While most universities would not allow the perpetual classification of a thesis M.I.T. is an exception in this regard.",
+      "type": "education"
+    },
+    {
+      "allegation": "Administrators at M.I.T. could not find Lazar's name on their commencement list.",
+      "answer": "Asking about any classified or FERPA protected record would result in a claim of: no match found.",
+      "type": "education"
+    },
+    {
+      "allegation": "Bob Lazar's picture and name does not appear in any yearbook.",
+      "answer": "Only undergraduates appear in yearbooks and Bob Lazar never claimed to have gotten any bachelor degrees.",
+      "type": "education"
+    },
+    {
+      "allegation": "If Lazar did not have a bachelor degree he could not have gained access to the graduate program at Cal-tech.",
+      "answer": "An undergraduate degree is not required for Cal-tech's master's program, only the courses are.",
+      "type": "education"
+    },
+    {
+      "allegation": "Bob Lazar went to Los Angeles Pierce College instead of M.I.T.",
+      "answer": "This scenario assumes that Lazar was an undergraduate at M.I.T., something he never claimed himself.",
+      "type": "education"
+    },
+    {
+      "allegation": "Bob Lazar only got a 2 year electronics degree from Los Angeles Pierce College.",
+      "answer": "The 2 year electronics engineering associate degree was convertable into a 4 years degree if the student continued their education elsewhere.",
+      "type": "education"
+    },
+    {
+      "allegation": "Most of the courses Lazar took at Pierce College were electronics.",
+      "answer": "This is true, however given that Lazar spent 3 years at Pierce he could have easily taken 2 years of electronics and 1 year of transfer classes (maths, physics etc.).",
+      "type": "education"
+    },
+    {
+      "allegation": "Bob Lazar could not have gotten admitted to Cal-tech or MIT with his poor scores from high school.",
+      "answer": "Grades from Pierce automatically negate any poor high school score Lazar may have had.",
+      "type": "education"
+    },
+    {
+      "allegation": "Bob Lazar worked as a technician at Los Alamos Labs and was not a physicist.",
+      "answer": "Lazar began work at LANL as a contract technician through Kirk Meyer, however he later got a job (allegedly) in the Polarised Proton Section and Weapons Division as a scientist. The technician position does not exclude the other.",
+      "type": "career"
+    },
+    {
+      "allegation": "Los Alamos Labs denied that Lazar worked as a physicist at the lab in the past.",
+      "answer": "LANL also claimed to have failed to find anyone who knew Lazar even though several such people were found (including his first supervisor) years later. LANL's statements about Lazar are not reliable.",
+      "type": "career"
+    },
+    {
+      "allegation": "There is no evidence that Bob Lazar ever worked on highly classified weapons at Los Alamos Labs.",
+      "answer": "Correct, but he did manage to get a film crew into the lab long after his affiliation with LANL ended, which implies a stronger connection than what was confirmed by the lab.",
+      "type": "career"
+    },
+    {
+      "allegation": "Bob Lazar was no longer employed at the laboratory by February of 1983 according to a LANL phonebook.",
+      "answer": "The basis of this claim is a redacted non original LANL phonebook and therefore may not be historically accurate.",
+      "type": "career"
+    },
+    {
+      "allegation": "Lazar could not have gotten a Q clearance due to his debts.",
+      "answer": "Lazar did not have any debts when he claims to have gotten his Q clearance or when it was reactivated.",
+      "type": "career"
+    },
+    {
+      "allegation": "Lazar could not have gotten a Q clearance due to his bankruptcy.",
+      "answer": "While many clearances are denied or revoked for financial reasons a bankruptcy alone is not reason enough to deny a clearance. There has to be a pattern of negligence.",
+      "type": "career"
+    },
+    {
+      "allegation": "Lazar could not have gotten a Q clearance due to his first wives criminal past.",
+      "answer": "There are no strict regulations regarding denying a clearance for a partners former misdeeds. Given that all activity happened in the past and there was little risk of a recurrence this issue could have been insignificant.",
+      "type": "career"
+    },
+    {
+      "allegation": "Lazar could not have gotten his Q clearance reactivated since he owned a brothel in Nevada at some point (allegedly).",
+      "answer": "Past ownership of any legal business will not necessarily lead to a clearance denial.",
+      "type": "career"
+    },
+    {
+      "allegation": "Bob Lazar never published any scientific papers therefore he is not a physicist.",
+      "answer": "Given the short length of his professional career and the classified nature of the subjects he allegedly worked on this should not be surprising. Nikola Tesla also never published a paper.",
+      "type": "career"
+    },
+    {
+      "allegation": "When Bob Lazar declared bankruptcy in the mid 1980s he listed his occupation as self employed film processor.",
+      "answer": "Given that this would have been when Lazar was between jobs at a time when he was running a photo business, the accusation is accepted as it agrees with Lazar's own recollection.",
+      "type": "career"
+    },
+    {
+      "allegation": "Bob Lazar never met Edward Teller and Teller never helped him get the job at S4.",
+      "answer": "When Teller was asked on tape or via mail if he knew Bob Lazar he always refused to answer, which begs the question why couldn't he simply deny knowing or meeting Lazar.",
+      "type": "career"
+    },
+    {
+      "allegation": "Lazar is not trustworthy because he married his second wife while still being married to the first.",
+      "answer": "While this is true, the reason most likely was to help distract the police from arresting a young person who was tricked into performing a self incriminating action.",
+      "type": "life"
+    },
+    {
+      "allegation": "Lazar operated an illegal bordello in Las Vegas and therefore is not trustworthy.",
+      "answer": "The Vegas brothel joint venture began operation after Lazar was fired from his alleged reverse engineering job, during his divorce, while being hounded by the media and harassed (allegedly) by secret agents. Given the stress Lazar was under at the time it is no surprise he mad some bad decisions.",
+      "type": "life"
+    },
+    {
+      "allegation": "Lazar failed to repay some of his debts for a long time and is therefore not trustworthy.",
+      "answer": "Given that his single bankruptcy wiped out all of his debts the fact that he payed off some of the debts he was under no obligation to settle is commendable.",
+      "type": "life"
+    },
+    {
+      "allegation": "Bob Lazar failed to meet his contractual obligation to go to Japan for a live interview, but still took the payment for it.",
+      "answer": "The trip to Japan was allegedly prevented by the authorities and the interview was conducted over the phone so there was no money that had to be payed back. Bob Lazar seems to have never left the United States since then.",
+      "type": "life"
+    },
+    {
+      "allegation": "Bob Lazar met John Lear a promoter of UFO theories before he allegedly got his UFO reverse engineering job.",
+      "answer": "If meeting John Lear is a cause for concern or a curse then members of the CIA should be concerned as well since Lear worked for them at one time.",
+      "type": "life"
+    },
+    {
+      "allegation": "Bob Lazar made money from his story therefore his word is not reliable.",
+      "answer": "Bob Lazar made a fraction of the money he could have made if he went all out and he only charges money for his time when he is not the main subject of a documentary.",
+      "type": "life"
+    },
+    {
+      "allegation": "The whole story was made up by John Lear, Gene Huff and Bob Lazar.",
+      "answer": "There is no evidence that supports this claim, but if true they seem to be prepared to take the truth to the grave.",
+      "type": "life"
+    },
+    {
+      "allegation": "Bob heard about element 115 and its possible properties from the May 1989 issue of Scientific American.",
+      "answer": "Element 115 is sparsely mentioned in the paper which was written to showcase super heavy elements. There's no reason to believe that this indirect connection is anything but a coincidence.",
+      "type": "area51"
+    },
+    {
+      "allegation": "Bob stole the idea of greys coming from Zeta Reticuli from the story of Betty and Barney Hill.",
+      "answer": "Just as Bob's claims do not prove Betty and Barney's story neither does the latter disprove Bob's information.",
+      "type": "area51"
+    },
+    {
+      "allegation": "Bob stole the idea of the reactor design and explosion from the Demon Core story.",
+      "answer": "Any half sphere in a box will resemble any other half sphere in a box and all nuclear devices are dangerous and can go critical.",
+      "type": "area51"
+    },
+    {
+      "allegation": "Bob stole the idea of the Sport Model UFO from John Lear's Billy Meier collection.",
+      "answer": "Bob could have made up any UFO design if he really wanted to deceive people, but instead described the Sport Model as being almost identical to the most well known UFO ever photographed.",
+      "type": "area51"
+    },
+    {
+      "allegation": "Bob claimed to have been taken to S4 on a bus from Groom Lake, however on satellite images no roads lead to the facility location Bob claimed to have been to.",
+      "answer": "The satellite images of secret military facilities made by domestic or foreign instruments are not always reliable and it is also difficult to tell if a bus could have gone all the way to S4 using such imagery.",
+      "type": "area51"
+    },
+    {
+      "allegation": "There is no S4 at Papoose Lake only an S2 USAF facility (allegedly) or not even that.",
+      "answer": "The question of the existence and correct location of S2 and S4 is very much up for debate. It is possible that one is to the West while the other is to the East of Papoose Lake.",
+      "type": "area51"
+    },
+    {
+      "allegation": "The name of Bob Lazar was missing from the Area 51 entry logs (allegedly)",
+      "answer": "When Lazar first came out he did it anonymously, and given that only 6 months later was his real name published there was ample time to redact his records.",
+      "type": "area51"
+    },
+    {
+      "allegation": "Bob Lazar's name is in the Area 51 entry logs (allegedly), but his job was designated to be a custodial engineer at Area 51 and not that of a staff physicist at S4.",
+      "answer": "Official documents alleging Lazar's job being an engineer at Area 51 have been circulating since 1990 and could have been easily forged by those who had access.",
+      "type": "area51"
+    }
+  ]
+}

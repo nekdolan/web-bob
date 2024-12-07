@@ -11,12 +11,14 @@
   },
   "dependencies": {
     "@inkline/inkline": "^4.2.1",
+    "@nuxt/content": "^2.13.4",
     "@nuxt/image": "^1.8.1",
     "@nuxtjs/sitemap": "^7.0.0",
     "algoliasearch": "^5.15.0",
     "nuxt": "^3.14.1592",
     "vue": "latest",
-    "vue-router": "latest"
+    "vue-router": "latest",
+    "vue3-text-clamp": "^0.1.2"
   },
   "devDependencies": {
     "@inkline/config": "^1.9.1",

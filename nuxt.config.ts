@@ -10,16 +10,28 @@ export const SCSS_Logger = {
 };
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
-    modules: [
-      "@inkline/plugin/nuxt",
-      "@nuxt/image",
-      "@nuxtjs/sitemap",
-    ],
+    modules: ["@inkline/plugin/nuxt", "@nuxt/image", "@nuxtjs/sitemap", '@nuxt/content'],
     compatibilityDate: '2024-11-01',
     devtools: { enabled: false },
 
+    app: {
+        pageTransition: { name: 'page', mode: 'out-in' },
+        head: {
+            link: [
+                { rel: 'icon', type: 'image/png', sizes:'32x32', href:'/favicon/favicon-32x32.png' },
+                { rel: 'icon', type: 'image/png', sizes:'16x16', href:'/favicon/favicon-16x16.png' },
+                { rel: 'apple-touch-icon', sizes: '180x180', href:'/favicon/apple-touch-icon.png' },
+                { rel: 'manifest', href:'/favicon/site.webmanifest' },
+            ]
+        }
+    },
+
+    css: [
+      '~/assets/main.scss'
+    ],
+
     devServer: {
-        port: 3002,
+        port: 3003,
     },
 
     site: {
@@ -49,6 +61,10 @@ export default defineNuxtConfig({
 
     experimental: {
         inlineSSRStyles: false,
+    },
+
+    build: {
+        transpile: ['vue3-text-clamp']
     },
 
 });
