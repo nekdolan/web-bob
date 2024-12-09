@@ -21,22 +21,22 @@
   ],
   "allegations": [
     {
-      "allegation": "Cal-tech has no records of Bob Lazar's engineering master's degree.",
-      "answer": "Cal-tech does not publish its list of master graduates nor does the education conclude with a master's thesis. All information related to Lazar could have been easily classified (See Executive Order 12356 1.3/10).",
+      "allegation": "Caltech has no records of Bob Lazar's engineering master's degree.",
+      "answer": "Caltech does not publish its list of master graduates nor does the education conclude with a master's thesis. All information related to Lazar could have been easily classified (See Executive Order 12356 1.3/10).",
       "type": "education"
     },
     {
-      "allegation": "M.I.T. has no records of Bob Lazar's master's degree in physics.",
-      "answer": "Everything at M.I.T. including a student's records can be classified. (See Executive Order 12356 1.3/10)",
+      "allegation": "MIT has no records of Bob Lazar's master's degree in physics.",
+      "answer": "Everything at MIT including a student's records can be classified. (See Executive Order 12356 1.3/10)",
       "type": "education"
     },
     {
-      "allegation": "There is no evidence that Bob Lazar wrote a master's thesis at M.I.T.",
-      "answer": "While most universities would not allow the perpetual classification of a thesis M.I.T. is an exception in this regard.",
+      "allegation": "There is no evidence that Bob Lazar wrote a master's thesis at MIT",
+      "answer": "While most universities would not allow the perpetual classification of a thesis MIT is an exception in this regard.",
       "type": "education"
     },
     {
-      "allegation": "Administrators at M.I.T. could not find Lazar's name on their commencement list.",
+      "allegation": "Administrators at MIT could not find Lazar's name on their commencement list.",
       "answer": "Asking about any classified or FERPA protected record would result in a claim of: no match found.",
       "type": "education"
     },
@@ -46,13 +46,13 @@
       "type": "education"
     },
     {
-      "allegation": "If Lazar did not have a bachelor degree he could not have gained access to the graduate program at Cal-tech.",
-      "answer": "An undergraduate degree is not required for Cal-tech's master's program, only the courses are.",
+      "allegation": "If Lazar did not have a bachelor degree he could not have gained access to the graduate program at Caltech.",
+      "answer": "An undergraduate degree is not required for Caltech's master's program, only the courses are.",
       "type": "education"
     },
     {
-      "allegation": "Bob Lazar went to Los Angeles Pierce College instead of M.I.T.",
-      "answer": "This scenario assumes that Lazar was an undergraduate at M.I.T., something he never claimed himself.",
+      "allegation": "Bob Lazar went to Los Angeles Pierce College instead of MIT",
+      "answer": "This scenario assumes that Lazar was an undergraduate at MIT, something he never claimed himself.",
       "type": "education"
     },
     {
@@ -66,7 +66,7 @@
       "type": "education"
     },
     {
-      "allegation": "Bob Lazar could not have gotten admitted to Cal-tech or MIT with his poor scores from high school.",
+      "allegation": "Bob Lazar could not have gotten admitted to Caltech or MIT with his poor scores from high school.",
       "answer": "Grades from Pierce automatically negate any poor high school score Lazar may have had.",
       "type": "education"
     },
