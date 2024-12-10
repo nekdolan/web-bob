@@ -13,9 +13,10 @@ const imageModal = computed({
   set: (val) => {
     if (val && isMobile()) {
       window.open(imageModalSrc.value);
+      imageModalSrc.value = '';
       return;
     }
-    return val ? null : imageModalSrc.value = '';
+    return val ? '' : imageModalSrc.value = '';
   }
 });
 </script>

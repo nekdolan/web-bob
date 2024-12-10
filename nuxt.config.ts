@@ -15,7 +15,7 @@ export default defineNuxtConfig({
     devtools: { enabled: false },
 
     app: {
-        pageTransition: { name: 'page', mode: 'out-in' },
+        // pageTransition: { name: 'page', mode: 'out-in' },
         head: {
             link: [
                 { rel: 'icon', type: 'image/png', sizes:'32x32', href:'/favicon/favicon-32x32.png' },
@@ -64,7 +64,7 @@ export default defineNuxtConfig({
     },
 
     build: {
-        transpile: ['vue3-text-clamp']
+        transpile: ['vue3-text-clamp', 'resize-detector']
     },
 
 });

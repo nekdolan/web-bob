@@ -1,0 +1,361 @@
+[
+  {
+    "name": "The Lazar Tape",
+    "link": "https://www.youtube.com/watch?v=W1otgA2l8Dw",
+    "file": "lazar_tape_1991",
+    "type": "documentary",
+    "year": 1991
+  },
+  {
+    "name": "Secrets Of The Black World",
+    "link": "https://www.youtube.com/watch?v=6zmmVADScsg",
+    "file": "secrets_black_world_1995",
+    "type": "documentary",
+    "year": 1995
+  },
+  {
+    "name": "UFO's: Above and Beyond: Top Secret",
+    "link": "https://www.youtube.com/watch?v=IxRHONQOrcs",
+    "file": "ufo_s_above_and_beyond_top_secret_2005",
+    "type": "documentary",
+    "year": 2005
+  },
+  {
+    "name": "Secrets of UFOs: Area 51 Base",
+    "link": "https://www.youtube.com/watch?v=RjMEs0RoVMo",
+    "file": "secrets_of_ufo_area51_2006",
+    "type": "documentary",
+    "year": 2006
+  },
+  {
+    "name": "Dreamland: Area 51",
+    "link": "https://www.youtube.com/watch?v=Pvmm26UGddU",
+    "file": "dreamland_area_51_1996",
+    "type": "documentary",
+    "year": 1996
+  },
+  {
+    "name": "Bob Lazar & Jeremy Corbell on Larry King",
+    "link": "https://www.youtube.com/watch?v=Fa2FBpjW0NM",
+    "file": "bob_lazar_larry_king_2019",
+    "type": "interview",
+    "year": 2019
+  },
+  {
+    "name": "UFO Hypotheses - S4 Informer",
+    "link": "https://www.youtube.com/watch?v=I0oHeZsZam0",
+    "file": "ufo_hypotheses-s4-informer-1991",
+    "type": "documentary",
+    "year": 1991
+  },
+  {
+    "name": "Coast to Coast AM with Art Bell: John Lear & Bob Lazar",
+    "link": "https://www.youtube.com/watch?v=CWhtWkd2owA",
+    "file": "art_bell_john_lear_bob_lazar_1992",
+    "type": "interview",
+    "year": 1992
+  },
+  {
+    "name": "Coast to Coast AM with Art Bell: John Lear",
+    "link": "https://www.youtube.com/watch?v=6yyv92Ssb6s",
+    "file": "art_bell_john_lear_1993",
+    "type": "interview",
+    "year": 1993
+  },
+  {
+    "name": "Coast to Coast AM with Art Bell: Bob Lazar",
+    "link": "https://www.youtube.com/watch?v=40gTFuzOSk4",
+    "file": "art_bell_bob_lazar_1997",
+    "type": "interview",
+    "year": 1997
+  },
+  {
+    "name": "Coast to Coast AM with Art Bell: Bob Lazar",
+    "link": "https://www.youtube.com/watch?v=zmUWfKD5GG8",
+    "file": "art_bell_bob_lazar_2002",
+    "type": "interview",
+    "year": 2002
+  },
+  {
+    "name": "Coast to Coast AM with Art Bell: John Lear",
+    "link": "https://www.youtube.com/watch?v=GQMVrfHSIdk",
+    "file": "art_bell_john_lear_2003",
+    "type": "interview",
+    "year": 2003
+  },
+  {
+    "name": "Coast to Coast AM with Art Bell: Bob Lazar",
+    "link": "https://www.youtube.com/watch?v=MK3twxRHWUE",
+    "file": "art_bell_bob_lazar_2003",
+    "type": "interview",
+    "year": 2003
+  },
+  {
+    "name": "Coast to Coast AM with Art Bell: John Lear",
+    "link": "https://www.youtube.com/watch?v=XdN-czz3_eQ",
+    "file": "art_bell_john_lear_2004",
+    "type": "interview",
+    "year": 2004,
+    "ignore": true
+  },
+  {
+    "name": "Coast to Coast AM with George Knapp: Bob Lazar & Gene Huff",
+    "link": "https://www.youtube.com/watch?v=MK3twxRHWUE",
+    "file": "george_knapp_bob_lazar_gene_huff_2006",
+    "type": "interview",
+    "year": 2006
+  },
+  {
+    "name": "Coast to Coast AM with George Knapp: John Lear & Gene Huff",
+    "link": "https://www.youtube.com/watch?v=Qb_VdMzm3Dg",
+    "file": "george_knapp_john_lear_gene_huff_2009",
+    "type": "interview",
+    "year": 2009
+  },
+  {
+    "name": "Coast to Coast AM with George Knapp: Bob Lazar",
+    "link": "https://www.youtube.com/watch?v=wI51beQyy-w",
+    "file": "george_knapp_bob_lazar_2014",
+    "type": "interview",
+    "year": 2014
+  },
+  {
+    "name": "Ufo's The Best Evidence: Part 5",
+    "link": "https://www.youtube.com/watch?v=4UjqFaQq_7I",
+    "file": "ufos_the_best_evidence_5_1989",
+    "type": "interview",
+    "year": 1989
+  },
+  {
+    "name": "Ufo's The Best Evidence: Part 6",
+    "link": "https://www.youtube.com/watch?v=N2Z2WWfcHcU",
+    "file": "ufos_the_best_evidence_6_1989",
+    "type": "interview",
+    "year": 1989
+  },
+  {
+    "name": "Joe Rogan Experience #1315: Bob Lazar & Jeremy Corbell",
+    "link": "https://www.youtube.com/watch?v=BEWz4SXfyCQ",
+    "file": "joe_rogan_experience_1315_2019",
+    "type": "interview",
+    "year": 2019
+  },
+  {
+    "name": "The Bob Lazar LOST TAPES with John Andrews",
+    "link": "https://www.youtube.com/watch?v=N4rMmdS5_vY",
+    "file": "bob_lazar_lost_tapes_1990",
+    "type": "interview",
+    "year": 1990
+  },
+  {
+    "name": "UFOs The Best Evidence - Part 2 (1990)",
+    "link": "https://www.youtube.com/watch?v=k_zuPUZP2aI",
+    "file": "ufos_the_best_evidence_2_1990",
+    "type": "interview",
+    "year": 1990
+  },
+  {
+    "name": "John Lear Tells All – Part 1 of 4",
+    "link": "https://www.youtube.com/watch?v=4iv0Yr4gcHg",
+    "file": "john_lear_tells_all_1_2008",
+    "type": "interview",
+    "year": 2008
+  },
+  {
+    "name": "John Lear Tells All – Part 2 of 4",
+    "link": "https://www.youtube.com/watch?v=zWOhaWO0xDM",
+    "file": "john_lear_tells_all_2_2008",
+    "type": "interview",
+    "year": 2008
+  },
+  {
+    "name": "John Lear Tells All – Part 3 of 4",
+    "link": "https://www.youtube.com/watch?v=EQnDbL5-Md4",
+    "file": "john_lear_tells_all_3_2008",
+    "type": "interview",
+    "year": 2008
+  },
+  {
+    "name": "John Lear Tells All – Part 4 of 4",
+    "link": "https://www.youtube.com/watch?v=NvKV91Bi4MY",
+    "file": "john_lear_tells_all_4_2008",
+    "type": "interview",
+    "year": 2008
+  },
+  {
+    "name": "Bob Lazar: MUFON (2014)",
+    "link": "https://www.youtube.com/watch?v=9K60MmAPJYg",
+    "file": "mufon_2014",
+    "type": "interview",
+    "year": 2014
+  },
+  {
+    "name": "Bob Lazar: MUFON (1998)",
+    "link": "https://www.youtube.com/watch?v=6hE19YC2HSo",
+    "file": "mufon_1998",
+    "type": "interview",
+    "year": 1998
+  },
+  {
+    "name": "George Knapp: Bob Lazar (2018)",
+    "link": "https://www.youtube.com/watch?v=O7VZqdw4heY",
+    "file": "knapp_lazar_2018",
+    "type": "interview",
+    "year": 2018
+  },
+  {
+    "name": "Secureteam10: The Bob Lazar Interview (2018)",
+    "link": "https://www.youtube.com/watch?v=n4ZGidO1hH0",
+    "file": "bob_lazar_secureteam_2018",
+    "type": "interview",
+    "year": 2018
+  },
+  {
+    "name": "Unknown Radio Interview with Lazar",
+    "link": "https://www.youtube.com/watch?v=nAeHBCT_lj4",
+    "file": "radio_interview_1994",
+    "type": "interview",
+    "year": 1994
+  },
+  {
+    "name": "Dark Matters Radio: Don Ecker with guest John Lear ",
+    "link": "https://www.youtube.com/watch?v=ncakj7q-9Hc",
+    "file": "dark_matters_radio_2020",
+    "type": "interview",
+    "year": 2020
+  },
+  {
+    "name": "Ohio Exopolitics: John Lear discusses the Bob Lazar UFO",
+    "link": "https://www.youtube.com/watch?v=aQtXxAeFcFY",
+    "file": "ohio_exopolitics_john_lear_1994",
+    "type": "interview",
+    "year": 2011
+  },
+  {
+    "name": "Future Fantastic - Alien - Episode 1 (1996)",
+    "link": "https://www.youtube.com/watch?v=vscDwHKEVCo",
+    "file": "future_fantastic_1996",
+    "type": "documentary",
+    "year": 2011,
+    "ignore": true
+  },
+  {
+    "name": "The Billy Goodman Happening December",
+    "link": "https://www.youtube.com/watch?v=nMFQ0pnmYNw",
+    "file": "billy_goodman_2_1989",
+    "type": "interview",
+    "year": 1989
+  },
+  {
+    "name": "UFOs the Best Evidence: Bob Lazar 1989",
+    "link": "https://www.youtube.com/watch?v=EjYTIYwCpQg",
+    "file": "ufos_the_best_evidence_1989",
+    "type": "interview",
+    "year": 1989
+  },
+  {
+    "name": "MYSTERY WIRE - 3 of 4 - TJ Jannazzo",
+    "link": "https://www.youtube.com/watch?v=r2mK8tl900A",
+    "file": "mistery_wire_jannazzo_2022",
+    "type": "interview",
+    "year": 2022
+  },
+  {
+    "name": "Dark Matters Radio: Bob Lazar & Gene Huff",
+    "link": "https://www.youtube.com/watch?v=mXzCkdIkkpY",
+    "file": "dark_matters_radio",
+    "type": "interview",
+    "year": 1995
+  },
+  {
+    "name": "George Knapp Interview - Bob Lazar - Copenhagen - 2014",
+    "link": "https://www.youtube.com/watch?v=eB7RSCYtyXI",
+    "file": "george_coppenhagen_2014",
+    "type": "interview",
+    "year": 2014
+  },
+  {
+    "name": "George Knapp - Area 51, Flying Saucers and Bob Lazar | Exopolitics Denmark",
+    "link": "https://www.youtube.com/watch?v=MOp9d1-FDag",
+    "file": "george_coppenhagen_exopolitics_2014",
+    "type": "interview",
+    "year": 2014
+  },
+  {
+    "name": "Bob Lazar radio interview with George Knapp (2009)",
+    "link": "https://www.youtube.com/watch?v=Ed9EVZYCBGY",
+    "file": "george_lazar_hydrogen_interview",
+    "type": "interview",
+    "year": 2009
+  },
+  {
+    "name": "Bob Lazar answers your questions",
+    "link": "https://www.youtube.com/watch?v=CAhiULlKwHI",
+    "file": "bob_lazar_answers_your_questions_2019",
+    "type": "interview",
+    "year": 2019
+  },
+  {
+    "name": "Bob lazar & George Knapp 2019",
+    "link": "https://www.youtube.com/watch?v=jWA4DlIrQ2M",
+    "file": "bob_lazar_george_2019",
+    "type": "interview",
+    "year": 2019
+  },
+  {
+    "name": "Bob Lazar Little Al'e'Inn UFO Symposium Q & A",
+    "link": "https://www.youtube.com/watch?v=bA1TvhJKv8s",
+    "file": "bob_lazar_little_aleinn_1993",
+    "type": "interview",
+    "year": 1993
+  },
+  {
+    "name": "Joe Rogan Experience #1510 - George Knapp & Jeremy Corbell",
+    "link": "https://www.youtube.com/watch?v=Hc6pbG4wICA",
+    "file": "joe_rogan_george_knapp_2020",
+    "type": "interview",
+    "year": 2020
+  },
+  {
+    "name": "Ufo line - John Lear, Gene Huff, Bob Lazar",
+    "link": "https://www.youtube.com/watch?v=SH6nlYt62Fo",
+    "file": "ufo_line_1995",
+    "type": "interview",
+    "year": 1995
+  },
+  {
+    "name": "Ufo line - Layne Keck",
+    "link": "https://www.youtube.com/watch?v=ebKH1fsKz44",
+    "file": "ufo_line_part_2_1995",
+    "type": "interview",
+    "year": 1995
+  },
+  {
+    "name": "UFO Line - Bob Lazar, John Lear, & Gene Huff",
+    "link": "https://www.youtube.com/watch?v=sJgWwCL5XYM",
+    "file": "ufo_line_part_4_1996",
+    "type": "interview",
+    "year": 1996
+  },
+  {
+    "name": "Anatomy Of A Flying Saucer - Bob Lazar ",
+    "link": "https://www.youtube.com/watch?v=sg3FHZYxMUM",
+    "file": "anatomy_of_a_flying_saucer",
+    "type": "documentary",
+    "year": 1995
+  },
+  {
+    "name": "Dreamland: An Autobiography by Bob Lazar",
+    "link": "https://www.youtube.com/watch?v=wnPlSc-XnUg",
+    "file": "dreamland_biography_2019",
+    "type": "book",
+    "year": 2019
+  },
+  {
+    "name": "Bob Lazar Hypnosis August 1989",
+    "link": "https://www.youtube.com/watch?v=CQrRln6T_wI",
+    "file": "hypnosis_1989",
+    "type": "interview",
+    "year": 2019
+  }
+]

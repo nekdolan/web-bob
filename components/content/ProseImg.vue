@@ -1,6 +1,11 @@
 <script setup>
 const props = defineProps(['src', 'alt']);
 const image = inject('image');
+const targetImage = ref('');
+const getLink = (event) => {
+  console.log(event?.target?.src);
+  targetImage.value = event?.target?.src;
+}
 </script>
 <template>
   <div class="_flex _justify:center! image-container">
@@ -10,7 +15,8 @@ const image = inject('image');
         format="webp"
         densities="1x"
         class="_image:responsive _image:thumbnail"
-        @click="image = props.src"
+        @click="image = targetImage || props.src"
+        @load="getLink"
     />
   </div>
 </template>
