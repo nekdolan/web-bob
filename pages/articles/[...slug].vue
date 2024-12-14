@@ -35,8 +35,7 @@ const imageModal = computed({
     </IContainer>
     <IModal v-model="imageModal" size="lg">
       <template #header> Image Preview </template>
-      <NuxtImg :src="imageModalSrc" />
-<!--      <template #footer> Modal Footer </template>-->
+      <NuxtImg :src="imageModalSrc" class="_image:responsive" />
     </IModal>
   </IContainer>
 </template>

@@ -3,7 +3,6 @@ const props = defineProps(['src', 'alt']);
 const image = inject('image');
 const targetImage = ref('');
 const getLink = (event) => {
-  console.log(event?.target?.src);
   targetImage.value = event?.target?.src;
 }
 </script>
