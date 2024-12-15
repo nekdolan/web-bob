@@ -15,7 +15,7 @@
             <INavItem to="/articles"> Articles </INavItem>
             <INavItem to="/library"> Library </INavItem>
             <INavItem to="/videos"> Videos </INavItem>
-            <INavItem to="/#about"> About Us </INavItem>
+            <INavItem to="/#about"> About Me </INavItem>
           </INav>
         </INavbarCollapsible>
       </INavbar>
