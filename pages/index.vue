@@ -45,8 +45,8 @@ useSeoMeta({
                 so that all may have access to the historical material and are able to paint a more balanced picture of the man.
               </p>
               <p>
-                In the <NuxtLink to="/#answers">Answers</NuxtLink> section we have a list of common charges Lazar has been accused of the appropriate
-                answer or rebuttal to them.
+                In the <NuxtLink to="/#answers">Answers</NuxtLink> section we have a list of common charges Lazar has been accused of and the appropriate
+                answer or rebuttal to the charge.
                 In the <NuxtLink to="/articles">Articles</NuxtLink> section you can find primary research related to Lazar's life and history.
                 In the <NuxtLink to="/library">Library</NuxtLink> you can search for information related to Lazar's story using radio and movie
                 transcripts and books as sources.<br>
@@ -72,8 +72,8 @@ useSeoMeta({
       <div id="answers"></div>
       <IContainer class="main-header _display:flex ">
         <div class="_flex-grow:1">
-          <div class="d4 _margin-top:3 _margin-bottom:3 _max-width:75%">Accusations & <span class="_color:primary">Answers</span></div>
-          <ITabs v-model="activeTab" class="_margin-bottom:2" style="max-width: 90%" stretch>
+          <div class="d4 _margin-top:3 _margin-bottom:3">Accusations & <span class="_color:primary">Answers</span></div>
+          <ITabs v-model="activeTab" class="_margin-bottom:2" stretch>
             <template #header>
               <ITabTitle :for="name" v-for="name in categories" class="_text:uppercase">{{ name }}</ITabTitle>
             </template>
