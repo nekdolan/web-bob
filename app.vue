@@ -26,7 +26,7 @@
 
 <style lang="scss">
 .navbar-header {
-  z-index: 2;
+  z-index: 2001;
   //@media screen and (max-width: 1200px) {
   //  .navbar-brand > img {
   //    max-width: 200px;

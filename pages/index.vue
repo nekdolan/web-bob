@@ -71,7 +71,7 @@ useSeoMeta({
     <IContainer fluid class="star-background">
       <div id="answers"></div>
       <IContainer class="main-header _display:flex ">
-        <div class="_flex-grow:1">
+        <div class="_flex-grow:1 _max-width:100%">
           <div class="d4 _margin-top:3 _margin-bottom:3">Accusations & <span class="_color:primary">Answers</span></div>
           <ITabs v-model="activeTab" class="_margin-bottom:2" stretch>
             <template #header>
