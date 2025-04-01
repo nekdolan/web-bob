@@ -67,10 +67,4 @@ export default defineNuxtConfig({
         transpile: ['vue3-text-clamp', 'resize-detector']
     },
 
-    content: {
-        renderer: {
-            anchorLinks: false
-        }
-    },
-
 });
