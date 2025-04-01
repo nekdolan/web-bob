@@ -8,6 +8,10 @@ function isMobile() {
   return /android|iphone|ipad|ipod|blackberry|iemobile|opera mini/i.test(userAgent);
 }
 
+const { data: doc } = await useAsyncData(route.path, () => {
+  return queryCollection('articles').path(route.path).first()
+})
+
 const imageModal = computed({
   get: () => imageModalSrc.value !== '',
   set: (val) => {
@@ -23,7 +27,7 @@ const imageModal = computed({
 <template>
   <IContainer fluid class="star-background">
     <IContainer>
-      <ContentDoc :path="route.path.toLowerCase()" v-slot="{ doc }">
+<!--      <ContentDoc :path="route.path.toLowerCase()" v-slot="{ doc }">-->
           <h1 class="d5 _margin-top:3 _margin-bottom:2 _text-align:center">{{ doc.title }}</h1>
           <ICard class="_margin-bottom:2 _border-bottom-radius:1" >
             <template #image>
@@ -31,7 +35,7 @@ const imageModal = computed({
             </template>
             <ContentRenderer :value="doc" class="content-doc" />
           </ICard>
-      </ContentDoc>
+<!--      </ContentDoc>-->
     </IContainer>
     <IModal v-model="imageModal" size="lg">
       <template #header> Image Preview </template>

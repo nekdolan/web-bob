@@ -4,7 +4,7 @@ const pros = defineProps(['text']);
 <template>
   <IPopover>
     <IButton link color="primary" class="_padding:0" style="margin-top: -5px">
-      <ContentSlot />
+      <slot />
     </IButton>
     <template #body>
       {{ text }}

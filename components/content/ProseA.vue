@@ -6,9 +6,9 @@ const isMedia = ['gif', 'jpg', 'jpeg', 'png', 'pdf', 'zip'].includes(splitHref[s
 </script>
 <template>
   <nuxt-link v-if="isExternal || isMedia" external :to="props.href" :title="props.title" target="_blank">
-    <ContentSlot />
+    <slot />
   </nuxt-link>
   <nuxt-link v-else :to="props.href" :title="props.title">
-    <ContentSlot />
+    <slot />
   </nuxt-link>
 </template>

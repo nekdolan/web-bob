@@ -1,6 +1,7 @@
 <script setup>
 import TextClamp from "vue3-text-clamp";
 const data = await useArticles();
+const fixText = (text) => text.replace(/\\n/g, ' ')
 </script>
 <template>
   <IContainer fluid class="star-background" style="min-height: calc(100vh - 110px)">
@@ -17,10 +18,10 @@ const data = await useArticles();
                 {{ post.title }}
               </h3>
               <p>
-                <text-clamp :text="post.description" :max-lines="5" />
+                <text-clamp :text="fixText(post.description)" :max-lines="5" />
               </p>
             </div>
-            <nuxt-link class="_overlay-link!" :to="post._path"></nuxt-link>
+            <nuxt-link class="_overlay-link!" :to="post.path"></nuxt-link>
             <template #footer>
               <div class="_display:flex! _justify-content:space-between! _text:weak">
                 <div class="_text-align:left"> {{ formatDate(post.date) }} </div>
