@@ -13,6 +13,7 @@ export default defineContentConfig({
         public: z.boolean(),
         image: z.string(),
         date: z.date(),
+        align: z.string(),
       })
     })
   }

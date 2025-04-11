@@ -4,7 +4,7 @@ export const useArticles = async () => {
             .where('hidden', 'IS NULL')
             .where('hidden','=', false)
         )
-        .select('path', 'title', 'image', 'date', 'description')
+        .select('path', 'title', 'image', 'date', 'description', 'align')
         .order('date', 'DESC')
         .all());
     return articles;

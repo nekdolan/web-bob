@@ -100,7 +100,9 @@ useSeoMeta({
           <ICard>
             <h1>Me</h1>
             <p>
-              <NuxtImg src="/images/other/some-mistakes-of-darwin.jpg" width="250" class="_margin-left:1 _margin-bottom:1 _image:thumbnail _image:responsive _float:right _sm:hidden _md:visible" />
+              <NuxtLink target="_blank" external href="https://mistakesofdarwin.com">
+                <NuxtImg src="/images/other/some-mistakes-of-darwin.jpg" width="250" class="_margin-left:1 _margin-bottom:1 _image:thumbnail _image:responsive _float:right _sm:hidden _md:visible" />
+              </NuxtLink>
               I am Daniel Vintner, the creator of BobLazarVindicated.com.
               I am a professional programmer, author, and UFO researcher.
               My research into Bob Lazar's story began in January 2023,
@@ -112,7 +114,7 @@ useSeoMeta({
             </p>
             <h1>Contact</h1>
             <p>
-              <NuxtImg src="/images/other/mailme.png" width="400" class="_image:responsive" />
+                <NuxtImg src="/images/other/mailme.png" width="400" class="_image:responsive" />
             </p>
             <p>
               <NuxtLink to="https://x.com/DanielGVintner" external>
