@@ -26,7 +26,7 @@ const imageModal = computed({
 </script>
 <template>
   <IContainer fluid class="star-background">
-    <IContainer>
+    <IContainer v-if="doc">
 <!--      <ContentDoc :path="route.path.toLowerCase()" v-slot="{ doc }">-->
           <h1 class="d5 _margin-top:3 _margin-bottom:2 _text-align:center">{{ doc.title }}</h1>
           <ICard class="_margin-bottom:2 _border-bottom-radius:1" >
