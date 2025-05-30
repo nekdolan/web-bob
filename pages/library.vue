@@ -1,12 +1,10 @@
 <script setup>
-import { algoliasearch } from 'algoliasearch';
 import debounce from 'lodash.debounce';
-import Highlight from "~/components/highlight.vue";
+import Hits from "~/components/hits.vue";
 
 const appConfig = useAppConfig();
 const { texts, videos } = appConfig;
 const sources = [...texts, ...videos].sort((a, b) => a.year - b.year);
-const client = algoliasearch('ICH94UFHO1', 'e00bce52bccc5ec72dfa4e36f900e681');
 
 const router = useRouter()
 const route = useRoute()
@@ -16,14 +14,14 @@ const q = computed(() => {
   return search.value;
 })
 const p = computed(() => {
-  return page.value - 1;
+  return page.value;
 })
+const pageSize = 20;
 const { data = {}, status } = await useLazyAsyncData('search', () => {
   if (q.value?.length >= 3) {
-    return client.searchSingleIndex({
-      indexName: 'sources',
-      searchParams: { query: q.value, page: p.value },
-    });
+    return $fetch('https://gsdufojxqj.execute-api.us-east-1.amazonaws.com/dev/search', {
+      query: { q: q.value, p: p.value, s: pageSize, c: 'lazar' }
+    })
   }
   return {};
 }, {
@@ -63,7 +61,7 @@ watch(() => page.value, (value) => router.push({query: {q: search.value, p: valu
               <template #prepend><span class="_font-size:xl">Search:</span></template>
             </IInput>
           </ICard>
-          <div v-if="!data?.hits && status === 'success'">
+          <div v-if="!data?.results && status === 'success'">
             <ITable striped border condensed>
               <thead>
               <tr>
@@ -88,11 +86,11 @@ watch(() => page.value, (value) => router.push({query: {q: search.value, p: valu
               <ILoader size="auto" color="dark" />
             </div>
           </div>
-          <div class="_display:flex! _justify-content:center!" v-if="status === 'success' && data?.nbPages > 1">
-            <IPagination size="sm" v-model="page" :items-total="data.nbHits" :items-per-page="data.hitsPerPage" :limit="5" />
+          <div class="_display:flex! _justify-content:center!" v-if="status === 'success' && data?.total > pageSize">
+            <IPagination size="sm" v-model="page" :items-total="data.total" :items-per-page="pageSize" :limit="5" />
           </div>
-          <IAlert v-if="data?.nbHits === 0" color="warning">No results found!</IAlert>
-          <div v-else-if="data?.hits && status === 'success'" >
+          <IAlert v-if="data?.results?.length === 0" color="warning">No results found!</IAlert>
+          <div v-else-if="data?.results && status === 'success'" >
             <ITable striped border condensed>
               <thead>
               <tr>
@@ -103,7 +101,7 @@ watch(() => page.value, (value) => router.push({query: {q: search.value, p: valu
               </tr>
               </thead>
               <tbody>
-              <template v-for="(hit, index) of data?.hits || []" key="">
+              <template v-for="(hit, index) of data?.results || []" key="">
                 <tr class="header-row">
                   <td class="_text-align:center">{{ index + 1 }}</td>
                   <td class="_max-width:50vw">{{ hit.name }}</td>
@@ -112,18 +110,15 @@ watch(() => page.value, (value) => router.push({query: {q: search.value, p: valu
                 </tr>
                 <tr>
                   <td colspan="4" class="_max-width:75vw" >
-                    <div v-if="hit._highlightResult.text.matchLevel === 'none'" class="_text-align:center">
-                      ...
-                    </div>
-                    <Highlight :value="hit._highlightResult.text.value" bg="true" v-else class="_overflow:hidden"/>
+                    <Hits :value="hit.text" :highlights="hit.highlights" bg="true" class="_overflow:hidden"/>
                   </td>
                 </tr>
               </template>
               </tbody>
             </ITable>
           </div>
-          <div class="_display:flex! _justify-content:center!" v-if="status === 'success' && data?.nbPages > 1">
-            <IPagination size="sm" v-model="page" :items-total="data.nbHits" :items-per-page="data.hitsPerPage" :limit="5" />
+          <div class="_display:flex! _justify-content:center!" v-if="status === 'success' && data?.total > pageSize">
+            <IPagination size="sm" v-model="page" :items-total="data.total" :items-per-page="pageSize" :limit="5" />
           </div>
         </IColumn>
       </IRow>
