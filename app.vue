@@ -11,11 +11,11 @@
         </INavbarBrand>
         <INavbarCollapsible>
           <INav>
-            <INavItem to="/#answers"> Answers </INavItem>
+            <INavItem to="/#answers" external> Answers </INavItem>
             <INavItem to="/articles"> Articles </INavItem>
             <INavItem to="/library"> Library </INavItem>
             <INavItem to="/videos"> Videos </INavItem>
-            <INavItem to="/#about"> About Me </INavItem>
+            <INavItem to="/#about" external> About Me </INavItem>
           </INav>
         </INavbarCollapsible>
       </INavbar>
