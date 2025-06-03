@@ -193,7 +193,22 @@ useSeoMeta({
                   don't know why and honestly, I don't want to know why.
                   Third, I saw something that resembled the Entity or at least the outside shape of the glowing
                   being. This shape was stuck to the bottom of my vision so once again I could not see any
-                  feet. That's pretty much all that I saw
+                  feet. That's pretty much all that I saw<br>
+                  UPDATE<br>
+                  After about two years I've decided to do another hypnotherapy session with the same therapist.
+                  Since the first session I have been meditating daily and I have experienced much less resistance
+                  this time and a lot less headaches afterwards. I also did not have any third eye visions the second time.
+                  Third eye visions have been a constant experience since the first session, however seeing more than
+                  smudges in red and yellow or grey colors almost never happens. That said I did get hypnotic visions which are more
+                  detailed and also more transparent compared to a third eye vision. These are more similar to how we see memories
+                  while the latter is more similar to how a person with bad eyesight would see the world normally.<br>
+                  In my vision I saw the entity which was more detailed this time. He was wearing a robe with sleeves and
+                  they seemed to have hands. Both the robe and the entity shined as I remembered but they looked more human.
+                  Communicating with this entity I got the impression that they experienced time very differently than how we do,
+                  and instead of flowing with time they appeared were they needed to be when they needed to be.
+                  The reason why they looked different to me compared to how they looked in my original experience,
+                  was that since I have changed since then I can see more of what they look like and that their appearance
+                  generally is based on who is observing them rather than them having a physical from.<br>
                 </p>
               </ICollapsibleItem>
             </ICollapsible>
