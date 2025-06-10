@@ -35,15 +35,13 @@ watch(() => imageModal.value, () => {
 <template>
   <IContainer fluid class="star-background">
     <IContainer v-if="doc">
-<!--      <ContentDoc :path="route.path.toLowerCase()" v-slot="{ doc }">-->
-          <h1 class="d5 _margin-top:3 _margin-bottom:2 _text-align:center">{{ doc.title }}</h1>
-          <ICard class="_margin-bottom:2 _border-bottom-radius:1" >
-            <template #image>
-              <ContentImage :image="doc.image" :align="doc.align" class="_border-top-radius:1" />
-            </template>
-            <ContentRenderer :value="doc" class="content-doc" />
-          </ICard>
-<!--      </ContentDoc>-->
+      <h1 class="d5 _margin-top:3 _margin-bottom:2 _text-align:center">{{ doc.title }}</h1>
+      <ICard class="_margin-bottom:2 _border-bottom-radius:1" >
+        <template #image>
+          <ContentImage :image="doc.image" :align="doc.align" class="_border-top-radius:1" />
+        </template>
+        <ContentRenderer :value="doc" class="content-doc" />
+      </ICard>
     </IContainer>
     <IModal v-model="imageModal" size="lg">
       <template #header> Image Preview </template>
