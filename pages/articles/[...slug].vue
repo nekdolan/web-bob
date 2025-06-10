@@ -1,6 +1,7 @@
 <script setup>
 const route = useRoute();
 const imageModalSrc = ref('');
+const imageModalSrcReal = ref('');
 provide('image', imageModalSrc);
 
 function isMobile() {
@@ -12,17 +13,24 @@ const { data: doc } = await useAsyncData(route.path, () => {
   return queryCollection('articles').path(route.path).first()
 })
 
-const imageModal = computed({
-  get: () => imageModalSrc.value !== '',
-  set: (val) => {
-    if (val && isMobile()) {
+const imageModal = ref(false);
+watch(() => imageModalSrc.value, () => {
+  if (imageModalSrc.value !== '') {
+    if (isMobile()) {
       window.open(imageModalSrc.value);
       imageModalSrc.value = '';
-      return;
+    } else {
+      imageModal.value = true;
     }
-    return val ? '' : imageModalSrc.value = '';
   }
-});
+})
+watch(() => imageModal.value, () => {
+  if (imageModal.value === false) {
+    imageModalSrcReal.value = imageModalSrc.value;
+    imageModalSrc.value = '';
+  }
+})
+
 </script>
 <template>
   <IContainer fluid class="star-background">
@@ -39,7 +47,7 @@ const imageModal = computed({
     </IContainer>
     <IModal v-model="imageModal" size="lg">
       <template #header> Image Preview </template>
-      <NuxtImg :src="imageModalSrc" class="_image:responsive" />
+      <NuxtImg :src="imageModalSrc || imageModalSrcReal" class="_image:responsive" />
     </IModal>
   </IContainer>
 </template>
