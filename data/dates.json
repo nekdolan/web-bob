@@ -1,0 +1,280 @@
+[
+  {
+    "year": 1989,
+    "month": 5,
+    "day": 15,
+    "title": "Dennis Interview",
+    "text": "In his first interview with George Knapp, Bob Lazar—using the pseudonym \"Dennis\"—claimed there were nine extraterrestrial flying saucers at a secret facility. He said the crafts were in various stages of assembly and disrepair, being dismantled, test-flown, and studied. Lazar added that he couldn’t provide proof without revealing his identity and putting himself at greater risk.",
+    "type": "interview",
+    "participants": ["BL","GK"],
+    "sources": ["joe_vaninetti_diary_2006"]
+  },
+  {
+    "year": 1989,
+    "month": 8,
+    "day": 30,
+    "title": "Dennis calls Bob on the phone",
+    "text": "Dennis called Bob Lazar, sounding angry and threatening, and warned him that “they” wouldn’t allow him to complete his AIDS project. When Bob offered to go public and retract everything he had said, Dennis replied, “It’s too late for that now. We’re going to kill you,” and then hung up.",
+    "type": "phone",
+    "participants": ["DM","BL"],
+    "sources": ["joe_vaninetti_diary_2006"]
+  },
+  {
+    "year": 1989,
+    "month": 8,
+    "day": 19,
+    "title": "Dennis calls Bob on the phone before meeting",
+    "text": "Bob’s former boss Dennis from Groom Lake called and asked to meet that evening. They arranged to meet at 8:00 PM at the Union Plaza casino in downtown Las Vegas—a busy, public place on a Saturday night. Bob was joined by his friend Gene Huff and former Los Alamos colleague Joe Vaninetti, who helped plan the meeting. When Bob arrived, Dennis was already there but refused to acknowledge him, acting as if they had never met.",
+    "type": "meeting",
+    "participants": ["BL","DM","JV","GH"],
+    "sources": [
+      "joe_vaninetti_diary_2006",
+      "dreamland_biography_2019",
+      "ufos_and_the_alien_presence_1990",
+      "new_line_cinema_interview_1993",
+      "george_knapp_bob_lazar_gene_huff_2006"
+    ]
+  },
+  {
+    "year": 1989,
+    "month": 9,
+    "day": 16,
+    "title": "Testing clear \"stuff\"",
+    "text": "Planned tests on a clear substance—likely aerogel—including exposure to UV light, microscopic examination, reaction in milk (possibly to test water selectivity), alpha radiation testing, behavior in a microwave with water, and its response to being filled with water and either frozen or heated.",
+    "type": "test",
+    "participants": ["BL", "JV"],
+    "sources": ["joe_vaninetti_diary_2006"]
+  },
+  {
+    "year": 1989,
+    "month": 10,
+    "day": 19,
+    "title": "High speed chase before film crew arrives",
+    "text": "Bob Lazar called Joe Vaninetti briefly and said he had been involved in another high-speed chase earlier that day, which lasted about 20 minutes. He told Joe the adrenaline left him feeling like he might vomit. Bob added that he would call back later, as a film crew—likely George Knapp’s—had just arrived.",
+    "type": "attack",
+    "participants": ["BL", "JV"],
+    "sources": ["joe_vaninetti_diary_2006"]
+  },
+  {
+    "year": 1989,
+    "month": 11,
+    "day": 8,
+    "title": "Government people break into Bob's house",
+    "text": "Bob Lazar called Joe Vaninetti from GUFON’s and said that government agents had broken into his house while he was out. They took the element 115, all of the clear material, and the clear liquid. Bob also expressed concern about Jim, noting that his work phone line was no longer functioning.",
+    "type": "attack",
+    "participants": ["BL", "JV", "GH"],
+    "sources": ["joe_vaninetti_diary_2006"]
+  },
+  {
+    "year": 1989,
+    "month": 11,
+    "day": 29,
+    "title": "People break into Bob's car",
+    "text": "On two consecutive nights, Bob Lazar found his car unlocked after visiting different health clubs, but nothing was missing—his wallet and gun were still inside, and no explosives were found.",
+    "type": "attack",
+    "participants": ["BL", "JV"],
+    "sources": ["joe_vaninetti_diary_2006"]
+  },
+  {
+    "year": 1989,
+    "month": 11,
+    "day": 30,
+    "title": "People break into Bob's car",
+    "text": "On two consecutive nights, Bob Lazar found his car unlocked after visiting different health clubs, but nothing was missing—his wallet and gun were still inside, and no explosives were found.",
+    "type": "attack",
+    "participants": ["BL", "JV"],
+    "sources": ["joe_vaninetti_diary_2006"]
+  },
+  {
+    "year": 1989,
+    "month": 1,
+    "day": 1,
+    "title": "Surveillance Transcript Revealed",
+    "type": "work",
+    "text": "Bob Lazar discusses an incident where government agents delivered a transcript of a private phone call between him and Gene. This revealed that his communications were being monitored. A similar event had occurred earlier with a call involving his friend Jim.",
+    "participants": ["BL","GH","JT"],
+    "sources": ["new_line_cinema_interview_1993"]
+  },
+  {
+    "year": 1989,
+    "month": 1,
+    "day": 7,
+    "title": "Health Crisis",
+    "type": "attack",
+    "text": "Bob experiences blood in his urine and collapses, days after ingesting a fluid at S4 (described as \"pine fluid\"). This health issue is linked to his second visit to S4, which occurred before Christmas. He suspects exposure to a harmful substance.",
+    "participants": ["BL"],
+    "sources": ["new_line_cinema_interview_1993"]
+  },
+  {
+    "year": 1989,
+    "month": 1,
+    "day": 9,
+    "title": "Visit to Doctor",
+    "text": "Bob visits the doctor after his collapse and is given Demerol, to which he reacts strongly. He becomes visibly high and disoriented, which surprises his friends, as he had no prior drug experience. This confirms the seriousness of his medical episode.",
+    "type": "attack",
+    "participants": ["BL", "GH"],
+    "sources": ["new_line_cinema_interview_1993"]
+  },
+  {
+    "year": 1989,
+    "month": 1,
+    "day": 12,
+    "title": "Trip to Los Alamos",
+    "type": "work",
+    "text": "Bob Lazar took a trip to Los Alamos Labs, in connection with his work on alpha radiation-detecting probes. He had been tasked with repairing these probes as part of his responsibilities.",
+    "participants": ["BL"],
+    "sources": ["new_line_cinema_interview_1993"]
+  },
+  {
+    "year": 1989,
+    "month": 1,
+    "day": 16,
+    "title": "Trip to S4",
+    "type": "work",
+    "text": "Bob Lazar made a trip during which he saw the disc-shaped craft for the first time and was exposed to classified files. He confirmed that all such trips involved file access. A reference to John Lear appears in his notes for that day, but the reason for it is unclear.",
+    "participants": ["BL", "JL"],
+    "sources": ["new_line_cinema_interview_1993"]
+  },
+  {
+    "year": 1989,
+    "month": 1,
+    "day": 19,
+    "title": "Trip to Los Alamos",
+    "type": "meeting",
+    "text": "Bob Lazar went to Los Alamos and met and stayed with his friend Joe Vaninetti who worked at Los Alamos Labs at the time.",
+    "participants": ["BL","JV"],
+    "sources": ["new_line_cinema_interview_1993"]
+  },
+  {
+    "year": 1989,
+    "month": 1,
+    "day": 24,
+    "title": "Trip to S4",
+    "type": "work",
+    "text": "On the day Bob Lazar returned from Los Alamos he went out to work at S4 once again.",
+    "participants": ["BL"],
+    "sources": ["new_line_cinema_interview_1993"]
+  },
+  {
+    "year": 1989,
+    "month": 1,
+    "day": 26,
+    "title": "Lazar's Birthday",
+    "type": "meeting",
+    "text": "Lazar went out with Gene Huff and his wife to Alpine Village (Swedish restaurant).",
+    "participants": ["BL", "GH"],
+    "sources": ["new_line_cinema_interview_1993"]
+  },
+  {
+    "year": 1989,
+    "month": 3,
+    "day": 22,
+    "title": "First Test Flight Sighting",
+    "type": "meeting",
+    "text": "Bob Lazar brought Gene Huff, John Lear, and Tracy to a remote spot near Groom Lake to observe a scheduled test flight of a disc. They traveled in Lear’s RV and brought an eight-inch telescope. Despite car trouble en route, they arrived and witnessed a glowing, elliptical object moving erratically in the sky. This was the group’s first visual confirmation of what Lazar claimed to be extraterrestrial craft under test by the government.",
+    "participants": ["BL", "GH", "JL"],
+    "sources": ["new_line_cinema_interview_1993"]
+  },
+  {
+    "year": 1989,
+    "month": 3,
+    "day": 29,
+    "title": "Second Test Flight Sighting",
+    "type": "meeting",
+    "text": "Bob Lazar returned to the same location, this time with Gene Huff, Jim, and Tracy, traveling in a rented Lincoln Town Car. They brought a smaller telescope, binoculars, and a video camera. During the outing, the group observed a glowing object jump several miles across the sky in a step-like motion before approaching their location and glowing intensely. This sighting was more dramatic than the first and captured on video.",
+    "participants": ["BL", "JT", "GH"],
+    "sources": ["new_line_cinema_interview_1993"]
+  },
+  {
+    "year": 1989,
+    "month": 4,
+    "day": 5,
+    "title": "Third Trip To Groom Lake",
+    "type": "attack",
+    "text": "Bob Lazar took friends out for what would be their third and final trip to observe a disc test near Groom Lake. Earlier trips had been successful, but this night ended differently. The group—aware of growing risks—traveled again to the same viewing area. However, no disc was seen. Instead, they were intercepted and caught by security.",
+    "participants": ["BL", "GH", "JL"],
+    "sources": ["new_line_cinema_interview_1993"]
+  },
+  {
+    "year": 1989,
+    "month": 4,
+    "day": 6,
+    "title": "Debriefed at Indian Springs",
+    "type": "work",
+    "text": "After Bob Lazar was caught he was interrogated at Indian Springs Air Force Base by operatives.",
+    "participants": ["BL"],
+    "sources": ["new_line_cinema_interview_1993"]
+  },
+  {
+    "year": 1989,
+    "month": 11,
+    "day": 10,
+    "title": "Lazar is named on UFO's the Best Evidence",
+    "type": "interview",
+    "text": "",
+    "participants": ["BL", "GK"],
+    "sources": ["new_line_cinema_interview_1993"]
+  },
+  {
+    "year": 1989,
+    "month": 6,
+    "day": 21,
+    "title": "Shooting Incident",
+    "type": "attack",
+    "text": "Bob describes a drive-by shooting incident where a white car pulled up beside him, fired a shot, and then drove off. The bullet hit his rear wheel, damaging the brake and puncturing the tire. Instead of turning onto the freeway, Bob drove straight into the dirt to evade the attacker, who then rolled up the window and left.",
+    "participants": ["BL"],
+    "sources": [
+      "new_line_cinema_interview_1993",
+      "alien_contact_1991"
+    ]
+  },
+  {
+    "year": 1989,
+    "month": 7,
+    "day": 1,
+    "title": "Desert Blast",
+    "type": "meeting",
+    "text": "A secretive, slightly off-kilter event known as Desert Blast was staged near Las Vegas by Bob Lazar.",
+    "participants": ["BL"],
+    "sources": ["new_line_cinema_interview_1993"]
+  },
+  {
+    "year": 1989,
+    "month": 4,
+    "day": 22,
+    "title": "John Lear & Bill Cooper On The Record",
+    "type": "interview",
+    "text": "John Lear mentions \"government theoretical physicist employed by the government who works on the saucers up at Groom Lake\" to George Knapp",
+    "participants": ["JL", "GK"],
+    "sources": ["george_knapp_john_lear_gene_huff_2009"]
+  },
+  {
+    "year": 1989,
+    "month": 6,
+    "day": 22,
+    "title": "Hypnosis session",
+    "type": "interview",
+    "text": "Hypnosis session by Lane Keck where Lazar speaks about the information related to gravity generators and the reactor.",
+    "participants": ["BL", "LK"],
+    "sources": ["jeremy_corbell_documentary_2018"]
+  },
+  {
+    "year": 1989,
+    "month": 9,
+    "day": 10,
+    "title": "Hypnosis session",
+    "type": "interview",
+    "text": "Hypnosis session by Lane Keck where Lazar speaks about the information from the ETs such as individuals planted on Earth in the past.",
+    "participants": ["BL", "GH", "LK"],
+    "sources": ["hypnosis_1989"]
+  },
+  {
+    "year": 0,
+    "month": 0,
+    "day": 0,
+    "title": "",
+    "text": "",
+    "participants": [],
+    "sources": []
+  }
+]

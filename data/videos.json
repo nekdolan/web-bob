@@ -356,6 +356,20 @@
     "link": "https://www.youtube.com/watch?v=CQrRln6T_wI",
     "file": "hypnosis_1989",
     "type": "interview",
-    "year": 2019
+    "year": 1989
+  },
+  {
+    "name": "Bob Lazar Interview with Don Garlits (1997)",
+    "link": "https://www.youtube.com/watch?v=NYxLcKqauHw",
+    "file": "don_garlits_1989",
+    "type": "interview",
+    "year": 1997
+  },
+  {
+    "name": "Bob Lazar Area 51 & Flying Saucers 2018",
+    "link": "https://www.youtube.com/watch?v=-_atzX3mMvg",
+    "file": "jeremy_corbell_documentary_2018",
+    "type": "documentary",
+    "year": 2018
   }
 ]
