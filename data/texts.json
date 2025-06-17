@@ -51,9 +51,9 @@
     "name": "MUFON UFO JOURNAL",
     "author": "John Kirby",
     "link": "https://web.archive.org/web/20070601044748/http://www.ufomind.com/area51/people/lazar/pretalk.shtml",
-    "file": "mufon_ufo_journal_1993",
+    "file": "mufon_ufo_journal_1994",
     "type": "interview",
-    "year": 1994
+    "year": 1993
   },
   {
     "name": "Omni Magazine Interview",
@@ -118,5 +118,13 @@
     "file": "joe_vaninetti_diary_2006",
     "type": "blog",
     "year": 2006
+  },
+  {
+    "name": "Chuck Harder interviews George Knapp",
+    "author": "Chuck Harder",
+    "link": "https://web.archive.org/web/20061020183337/http://www.beyondweird.com/ufos/George_Knapp_Interview_November_1989.html",
+    "file": "harder_interview_1989",
+    "type": "interview",
+    "year": 1989
   }
 ]

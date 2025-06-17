@@ -16,13 +16,14 @@ const dateInfo = computed(() => {
   })
 })
 
-const open = ref('item-1');
+const visible = ref(false);
 
 </script>
 <template>
   <span v-if="props.week * 7 + props.day >= props.year.start[props.month] && day <= props.year.days[month]">
-    <IPopover v-if="dateInfo" class="record" placement="bottom">
-      <ITooltip>
+    <IPopover v-if="dateInfo" class="record" v-model:visible="visible" events="manual"
+              @click:outside="visible = false" :class="visible ? 'no-tooltip':''" placement="right-start">
+      <ITooltip @click="visible = !visible">
         <span :class="dateInfo.type" class="record-body">
           {{ day }}
           <span v-if="day <= 9">&nbsp;</span>
@@ -47,13 +48,16 @@ const open = ref('item-1');
             {{ dateInfo.sources[0].name }}
           </nuxt-link>
         </div>
-        <ICollapsible v-else>
-          <ICollapsibleItem name="item-2" title="Sources">
-            <div v-for="link in dateInfo.sources">
-              <nuxt-link external :href="link.link" target="_blank" class="_display:inline-block">{{ link.name }}</nuxt-link>
-            </div>
-          </ICollapsibleItem>
-        </ICollapsible>
+        <div v-else class="sources">
+          Sources:
+          <ITooltip v-for="(link, index) in dateInfo.sources">
+            <nuxt-link external :href="link.link" target="_blank">{{ index + 1 }}</nuxt-link>
+            <span v-if="index + 1 < dateInfo.sources.length">,&nbsp;</span>
+            <template #body>
+              {{ link.name }}
+            </template>
+          </ITooltip>
+        </div>
       </template>
     </IPopover>
     {{ day }}
@@ -64,6 +68,15 @@ const open = ref('item-1');
 </template>
 
 <style lang="scss">
+.popover {
+  z-index: 10000;
+}
+.no-tooltip .tooltip {
+  visibility: hidden;
+}
+.sources .tooltip {
+  visibility: initial;
+}
 .record {
   position: absolute;
   .record-body {

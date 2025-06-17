@@ -13,9 +13,9 @@
     "year": 1989,
     "month": 8,
     "day": 30,
-    "title": "Dennis calls Bob on the phone",
+    "title": "Dennis threatens Bob on the phone",
     "text": "Dennis called Bob Lazar, sounding angry and threatening, and warned him that “they” wouldn’t allow him to complete his AIDS project. When Bob offered to go public and retract everything he had said, Dennis replied, “It’s too late for that now. We’re going to kill you,” and then hung up.",
-    "type": "phone",
+    "type": "meeting",
     "participants": ["DM","BL"],
     "sources": ["joe_vaninetti_diary_2006"]
   },
@@ -60,7 +60,7 @@
     "month": 11,
     "day": 8,
     "title": "Government people break into Bob's house",
-    "text": "Bob Lazar called Joe Vaninetti from GUFON’s and said that government agents had broken into his house while he was out. They took the element 115, all of the clear material, and the clear liquid. Bob also expressed concern about Jim, noting that his work phone line was no longer functioning.",
+    "text": "Bob Lazar called Joe Vaninetti from Gene Huff and said that government agents had broken into his house while he was out. They took the element 115, all of the clear material, and the clear liquid. Bob also expressed concern about Jim, noting that his work phone line was no longer functioning.",
     "type": "attack",
     "participants": ["BL", "JV", "GH"],
     "sources": ["joe_vaninetti_diary_2006"]
@@ -170,7 +170,7 @@
     "month": 3,
     "day": 22,
     "title": "First Test Flight Sighting",
-    "type": "meeting",
+    "type": "test",
     "text": "Bob Lazar brought Gene Huff, John Lear, and Tracy to a remote spot near Groom Lake to observe a scheduled test flight of a disc. They traveled in Lear’s RV and brought an eight-inch telescope. Despite car trouble en route, they arrived and witnessed a glowing, elliptical object moving erratically in the sky. This was the group’s first visual confirmation of what Lazar claimed to be extraterrestrial craft under test by the government.",
     "participants": ["BL", "GH", "JL"],
     "sources": ["new_line_cinema_interview_1993"]
@@ -180,7 +180,7 @@
     "month": 3,
     "day": 29,
     "title": "Second Test Flight Sighting",
-    "type": "meeting",
+    "type": "test",
     "text": "Bob Lazar returned to the same location, this time with Gene Huff, Jim, and Tracy, traveling in a rented Lincoln Town Car. They brought a smaller telescope, binoculars, and a video camera. During the outing, the group observed a glowing object jump several miles across the sky in a step-like motion before approaching their location and glowing intensely. This sighting was more dramatic than the first and captured on video.",
     "participants": ["BL", "JT", "GH"],
     "sources": ["new_line_cinema_interview_1993"]
@@ -201,7 +201,7 @@
     "day": 6,
     "title": "Debriefed at Indian Springs",
     "type": "work",
-    "text": "After Bob Lazar was caught he was interrogated at Indian Springs Air Force Base by operatives.",
+    "text": "After Bob Lazar was caught he was interrogated at Indian Springs Air Force Base by operatives. Private affairs he was unaware of before were revealed to him.",
     "participants": ["BL"],
     "sources": ["new_line_cinema_interview_1993"]
   },
@@ -209,11 +209,51 @@
     "year": 1989,
     "month": 11,
     "day": 10,
-    "title": "Lazar is named on UFO's the Best Evidence",
+    "title": "Lazar is named on UFO's the Best Evidence (part 5)",
     "type": "interview",
-    "text": "",
+    "text": "Bob Lazar describes alien technology housed at secret S-4 base in Nevada",
     "participants": ["BL", "GK"],
-    "sources": ["new_line_cinema_interview_1993"]
+    "sources": ["ufos_the_best_evidence_5_1989"]
+  },
+  {
+    "year": 1989,
+    "month": 11,
+    "day": 13,
+    "title": "Lazar on UFO's the Best Evidence (part 6)",
+    "type": "interview",
+    "text": "Bob Lazar describes the Sport Model flying saucer that they were trying to reverse engineer.",
+    "participants": ["BL", "GK", "GH"],
+    "sources": ["ufos_the_best_evidence_6_1989"]
+  },
+  {
+    "year": 1989,
+    "month": 11,
+    "day": 21,
+    "title": "Bob on the Billy Goodman show",
+    "type": "interview",
+    "text": "Bob Lazar claims that the U.S. government is studying extraterrestrial craft at a secret site called S-4, located near Area 51. Lazar mentions lost time and he used hypnosis to retrieve memories.",
+    "participants": ["BL", "GH", "BG"],
+    "sources": ["billy_goodman_nov_1989"]
+  },
+  {
+    "year": 1989,
+    "month": 12,
+    "day": 20,
+    "title": "Bob on the Billy Goodman show again",
+    "type": "interview",
+    "text": "Lazar explains that each craft was different in design and mostly empty inside, with no visible sleeping quarters or writing. He also touches on secrecy protocols, lack of personal records after leaving the program, and his decision to go public after suspecting his identity was being erased. Callers ask technical questions about propulsion, materials, and secrecy, which Lazar answers in simple terms where possible.",
+    "participants": ["BL", "BG"],
+    "sources": ["billy_goodman_2_1989"]
+  },
+  {
+    "year": 1989,
+    "month": 12,
+    "day": 9,
+    "title": "Bob On The Record",
+    "type": "interview",
+    "text": "Lazar describes a reactor that generates its own gravitational field, allowing craft to bend space and time—enabling faster-than-light travel and even time distortion. Lazar explains that secrecy around UFOs may stem from both the government and the visitors themselves, possibly due to humanity’s violent history and immaturity. He says he went public after discovering his personal records were being erased and feared for his safety. Despite some skepticism, he reports that public reaction has been largely supportive.",
+    "participants": ["BL", "GK"],
+    "sources": ["ufos_the_best_evidence_1989"]
   },
   {
     "year": 1989,
