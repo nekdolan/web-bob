@@ -237,6 +237,16 @@
   },
   {
     "year": 1989,
+    "month": 11,
+    "day": 17,
+    "title": "Chuck Harder interviews George Knapp",
+    "type": "interview",
+    "text": "George Knapp recounts his investigation into Bob Lazar’s claims of working at a secret base called S-4, near Groom Lake, Nevada. Lazar alleged he was hired to reverse-engineer extraterrestrial craft powered by anti-matter reactors that generated their own gravity. Knapp also notes attempts to erase Lazar’s background, such as vanished birth and education records, and phone surveillance—adding credibility to Lazar’s claims and prompting a broader investigation.",
+    "participants": ["GK"],
+    "sources": ["harder_interview_1989"]
+  },
+  {
+    "year": 1989,
     "month": 12,
     "day": 20,
     "title": "Bob on the Billy Goodman show again",
@@ -287,6 +297,36 @@
     "text": "John Lear mentions \"government theoretical physicist employed by the government who works on the saucers up at Groom Lake\" to George Knapp",
     "participants": ["JL", "GK"],
     "sources": ["george_knapp_john_lear_gene_huff_2009"]
+  },
+  {
+    "year": 1989,
+    "month": 4,
+    "day": 10,
+    "title": "Life equals zero",
+    "type": "attack",
+    "text": "Bob Lazar writes \"Life equals zero\" in his calendar most likely referring to the situation related his marriage.",
+    "participants": ["BL"],
+    "sources": ["new_line_cinema_interview_1993"]
+  },
+  {
+    "year": 1989,
+    "month": 10,
+    "day": 10,
+    "title": "First Polygraph Test",
+    "type": "interview",
+    "text": "Bob Lazar's first polygraph test presumably with polygraph expert Terry Tavernetti.",
+    "participants": ["BL", "TT"],
+    "sources": ["new_line_cinema_interview_1993"]
+  },
+  {
+    "year": 1989,
+    "month": 10,
+    "day": 13,
+    "title": "Second Polygraph Test",
+    "type": "interview",
+    "text": "Bob Lazar's second polygraph test presumably with polygraph expert Terry Tavernetti.",
+    "participants": ["BL", "TT"],
+    "sources": ["new_line_cinema_interview_1993"]
   },
   {
     "year": 1989,

@@ -5,7 +5,7 @@ import dates from "~/data/dates.json"
 const sources = [...texts, ...videos];
 const people = {
   JV: 'Joe Vaninetti', BL: 'Bob Lazar', GH: 'Gene Huff', GK: 'George Knapp', JL: 'John Lear', JT: 'Jim Tagliani',
-  LK: 'Lane Keck', BG: 'Billy Goodman'
+  LK: 'Lane Keck', BG: 'Billy Goodman', TT: 'Terry Tavernetti'
 }
 export default defineAppConfig({
   answers,
