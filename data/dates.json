@@ -60,7 +60,7 @@
     "month": 11,
     "day": 8,
     "title": "Government people break into Bob's house",
-    "text": "Bob Lazar called Joe Vaninetti from Gene Huff and said that government agents had broken into his house while he was out. They took the element 115, all of the clear material, and the clear liquid. Bob also expressed concern about Jim, noting that his work phone line was no longer functioning.",
+    "text": "Bob Lazar called Joe Vaninetti from Gene Huff's place and said that government agents had broken into his house while he was out. They took the element 115, all of the clear material, and the clear liquid. Bob also expressed concern about Jim, noting that his work phone line was no longer functioning.",
     "type": "attack",
     "participants": ["BL", "JV", "GH"],
     "sources": ["joe_vaninetti_diary_2006"]
@@ -86,22 +86,32 @@
     "sources": ["joe_vaninetti_diary_2006"]
   },
   {
-    "year": 1989,
-    "month": 1,
-    "day": 1,
+    "year": 1988,
+    "month": 12,
+    "day": 30,
     "title": "Surveillance Transcript Revealed",
     "type": "work",
-    "text": "Bob Lazar discusses an incident where government agents delivered a transcript of a private phone call between him and Gene. This revealed that his communications were being monitored. A similar event had occurred earlier with a call involving his friend Jim.",
+    "text": "Bob Lazar discusses an incident that happened before January where government agents delivered a transcript of a private phone call between him and Gene Huff.",
     "participants": ["BL","GH","JT"],
     "sources": ["new_line_cinema_interview_1993"]
   },
   {
     "year": 1989,
     "month": 1,
+    "day": 6,
+    "title": "Second trip to S4",
+    "type": "work",
+    "text": "Bob is called in before the 7th to work at S4 where he is given an allergen test in the form a pine smelling liquid.",
+    "participants": ["BL"],
+    "sources": ["new_line_cinema_interview_1993"]
+  },
+  {
+    "year": 1989,
+    "month": 1,
     "day": 7,
-    "title": "Health Crisis",
+    "title": "Medical emergency",
     "type": "attack",
-    "text": "Bob experiences blood in his urine and collapses, days after ingesting a fluid at S4 (described as \"pine fluid\"). This health issue is linked to his second visit to S4, which occurred before Christmas. He suspects exposure to a harmful substance.",
+    "text": "Bob becomes sick. He had blood in his urine and collapsed presumably as a consequence of the liquid he drank at S4",
     "participants": ["BL"],
     "sources": ["new_line_cinema_interview_1993"]
   },
@@ -110,7 +120,7 @@
     "month": 1,
     "day": 9,
     "title": "Visit to Doctor",
-    "text": "Bob visits the doctor after his collapse and is given Demerol, to which he reacts strongly. He becomes visibly high and disoriented, which surprises his friends, as he had no prior drug experience. This confirms the seriousness of his medical episode.",
+    "text": "Bob visits the doctor after his collapse and is given Demerol, to which he reacts strongly. He becomes visibly high and disoriented, which surprises his friends, as he had no prior drug experience.",
     "type": "attack",
     "participants": ["BL", "GH"],
     "sources": ["new_line_cinema_interview_1993"]
@@ -131,9 +141,9 @@
     "day": 16,
     "title": "Trip to S4",
     "type": "work",
-    "text": "Bob Lazar made a trip during which he saw the disc-shaped craft for the first time and was exposed to classified files. He confirmed that all such trips involved file access. A reference to John Lear appears in his notes for that day, but the reason for it is unclear.",
+    "text": "Bob Lazar made a trip during which he saw the disc-shaped craft for the first time and was exposed to classified files. A reference to John Lear appears in his notes for that day, but the reason for it is unclear, although Lear would later say that Bob visited him after the trip and disclosed information about the disk to him.",
     "participants": ["BL", "JL"],
-    "sources": ["new_line_cinema_interview_1993"]
+    "sources": ["new_line_cinema_interview_1993", "art_bell_john_lear_2003"]
   },
   {
     "year": 1989,
@@ -193,7 +203,7 @@
     "type": "attack",
     "text": "Bob Lazar took friends out for what would be their third and final trip to observe a disc test near Groom Lake. Earlier trips had been successful, but this night ended differently. The group—aware of growing risks—traveled again to the same viewing area. However, no disc was seen. Instead, they were intercepted and caught by security.",
     "participants": ["BL", "GH", "JL"],
-    "sources": ["new_line_cinema_interview_1993"]
+    "sources": ["new_line_cinema_interview_1993", "george_knapp_john_lear_gene_huff_2009"]
   },
   {
     "year": 1989,
@@ -347,6 +357,186 @@
     "text": "Hypnosis session by Lane Keck where Lazar speaks about the information from the ETs such as individuals planted on Earth in the past.",
     "participants": ["BL", "GH", "LK"],
     "sources": ["hypnosis_1989"]
+  },
+  {
+    "year": 1988,
+    "month": 6,
+    "day": 1,
+    "title": "First time Bob meets Lear",
+    "type": "meeting",
+    "text": "(some time June) John Lear was approached by Gene Huff, who proposed a trade: a real estate appraisal of Lear’s house in return for access to his collection of UFO-related materials, including tapes and documents like those on Billy Meier. Lear accepted the offer, and when Huff arrived to do the appraisal, he brought along Bob Lazar to assist him. This marked the first meeting between Lear and Lazar.",
+    "participants": ["JL","GH","BL"],
+    "sources": ["john_lear_tells_all_2_2008"]
+  },
+  {
+    "year": 1988,
+    "month": 9,
+    "day": 7,
+    "title": "Vaninetti visits Bob",
+    "type": "meeting",
+    "text": "Joe Vaninetti visited Bob from Los Alamos and stayed until the 10th. \"Groom Lake=125 miles\" is put on Bob's calendar.",
+    "participants": ["BL", "JV"],
+    "sources": ["new_line_cinema_interview_1993"]
+  },
+  {
+    "year": 1988,
+    "month": 10,
+    "day": 4,
+    "title": "Meeting with John Lear",
+    "type": "meeting",
+    "text": "John Lear visited. At the time Bob was running a photo business and had a contract to repair radiation detection probes and Lear would help him with the latter from time to time.",
+    "participants": ["BL", "JL"],
+    "sources": ["new_line_cinema_interview_1993", "john_lear_tells_all_2_2008"]
+  },
+  {
+    "year": 1988,
+    "month": 10,
+    "day": 15,
+    "title": "UFO Cover-up",
+    "type": "interview",
+    "text": "Jim had brought over a newspaper article about Lear’s UFO claims and suggested attending one of his lectures. Lazar dismissed it as nonsense but agreed to watch a TV special that evening featuring Lear and others discussing alien abductions.",
+    "participants": ["BL", "JT", "JL"],
+    "sources": ["new_line_cinema_interview_1993"]
+  },
+  {
+    "year": 1988,
+    "month": 10,
+    "day": 15,
+    "title": "Bob sends out resumes",
+    "type": "work",
+    "text": "Bob sent out resumes around mid October including to presumably Edward Teller",
+    "participants": ["BL", "ET"],
+    "sources": ["new_line_cinema_interview_1993"]
+  },
+  {
+    "year": 1988,
+    "month": 10,
+    "day": 19,
+    "title": "Jim Tagliani begins work at Tonopah",
+    "type": "work",
+    "text": "Jim Tagliani begins working on secret aircraft projects at Tonopah Test Range while still waiting for his background check to finish.",
+    "participants": ["BL", "JT"],
+    "sources": ["new_line_cinema_interview_1993"]
+  },
+  {
+    "year": 1988,
+    "month": 10,
+    "day": 25,
+    "title": "Bob Lazar delivers resume to EG&G",
+    "type": "work",
+    "text": "Bob Lazar hand-delivered his resume to EG&G. According to Lazar this was nothing special and since Bob lived nearby it was presumably faster then sending by mail.",
+    "participants": ["BL"],
+    "sources": ["new_line_cinema_interview_1993","beyond_roswell_1997"]
+  },
+  {
+    "year": 1988,
+    "month": 10,
+    "day": 27,
+    "title": "Talk about stuff",
+    "type": "meeting",
+    "text": "Bob Lazar writes \"Talk about stuff\" in calendar. The Reason is not clear.",
+    "participants": ["BL"],
+    "sources": ["new_line_cinema_interview_1993"]
+  },
+  {
+    "year": 1988,
+    "month": 11,
+    "day": 17,
+    "title": "Linda Howe",
+    "type": "meeting",
+    "text": "Bob Lazar writes Linda (Moulton) Howe in his diary after mentioning John Lear",
+    "participants": ["BL"],
+    "sources": ["new_line_cinema_interview_1993"]
+  },
+  {
+    "year": 1988,
+    "month": 11,
+    "day": 29,
+    "title": "Teller calls",
+    "type": "meeting",
+    "text": "Edward Teller told Bob he could not employ him since he was no longer active, but he gave Lazar a name and number to call at the EG&G building. John Lear claimed he was present during the phone call.",
+    "participants": ["BL", "ET", "JL"],
+    "sources": ["new_line_cinema_interview_1993", "beyond_roswell_1997", "alien_contact_1991", "art_bell_john_lear_2003"]
+  },
+  {
+    "year": 1988,
+    "month": 12,
+    "day": 1,
+    "title": "First Interview at EG&G",
+    "type": "interview",
+    "text": "Bob Lazar has an interview in the EG&G building where he is told that he’s \"overqualified\" but that \"something might open up soon.\"",
+    "participants": ["BL"],
+    "sources": ["new_line_cinema_interview_1993"]
+  },
+  {
+    "year": 1988,
+    "month": 12,
+    "day": 5,
+    "title": "Second Interview at EG&G",
+    "type": "interview",
+    "text": "Lazar is called back for a second interview shortly after the first. He refers to it as the \"Big Interview\"",
+    "participants": ["BL"],
+    "sources": ["new_line_cinema_interview_1993"]
+  },
+  {
+    "year": 1988,
+    "month": 12,
+    "day": 6,
+    "title": "First trip to A51",
+    "type": "work",
+    "text": "Bob Lazar was unexpectedly called in the early afternoon (around 2 PM) and instructed to report to EG&G. There, he received a briefing about a remote job site within a test area. Later that day, around 4 PM, he flew—along with Dennis Mariani and other passengers—to Area 51. This marked Lazar’s first trip to Area 51, which he later referred to as the \"Trip to Nowhere.\"",
+    "participants": ["BL","DM"],
+    "sources": ["new_line_cinema_interview_1993"]
+  },
+  {
+    "year": 1988,
+    "month": 12,
+    "day": 20,
+    "title": "First trip to S-4",
+    "type": "work",
+    "text": "Bob claims the first trip to S-4 was before the 23d of December. This date was no recorded in the calendar.",
+    "participants": ["BL","DM"],
+    "sources": ["new_line_cinema_interview_1993"]
+  },
+  {
+    "year": 1988,
+    "month": 12,
+    "day": 11,
+    "title": "Fireworks Show",
+    "type": "test",
+    "text": "Bob prepared an unusual fireworks show.",
+    "participants": ["BL"],
+    "sources": ["new_line_cinema_interview_1993"]
+  },
+  {
+    "year": 1988,
+    "month": 12,
+    "day": 14,
+    "title": "Groom Lake Photo",
+    "type": "test",
+    "text": "Bob Lazar enlarged an old 1960s black-and-white photo of Groom Lake in an attempt to identify the building he had visited about a week earlier. He created a negative from an existing photo and enlarged it in a darkroom but found the image too unclear to confirm details. He also described his arrival at the site: after landing, he and others were transported in an open electric shuttle to a central cafeteria area that included vending machines and a buffet.",
+    "participants": ["BL"],
+    "sources": ["new_line_cinema_interview_1993"]
+  },
+  {
+    "year": 1988,
+    "month": 12,
+    "day": 14,
+    "title": "Alpha Probe Contract",
+    "type": "meeting",
+    "text": "The Alpha Probe Contract was renewed by Los Alamos Labs",
+    "participants": ["BL"],
+    "sources": ["new_line_cinema_interview_1993"]
+  },
+  {
+    "year": 1988,
+    "month": 12,
+    "day": 28,
+    "title": "Mike Thigpen shows up",
+    "type": "interview",
+    "text": "Between December 26 and 30, 1988, Mike Thigpen visited Bob Lazar's home. This visit, along with an earlier unrecorded surprise visit, was part of Lazar’s background check process. Thigpen was identified as working for the Office of Federal Investigations (OFI) — a little-known division under the Office of Personnel Management (OPM) responsible for conducting security clearance background checks.",
+    "participants": ["BL"],
+    "sources": ["new_line_cinema_interview_1993"]
   },
   {
     "year": 0,

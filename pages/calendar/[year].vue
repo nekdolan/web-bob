@@ -1,4 +1,5 @@
 <script setup>
+const route = useRoute();
 const months = ['january', 'february', 'march', 'april', 'may', 'june', 'july', 'august', 'september', 'october', 'november', 'december'];
 const days = ['sunday', 'monday', 'tuesday', 'wednesday', 'thursday', 'friday', 'saturday'];
 const shortDays = days.map(day => day.slice(0,2).toUpperCase())
@@ -7,16 +8,27 @@ const years = [
     year: 1989,
     days: [31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31],
     start: [1, 4, 4, 7, 2, 5, 7, 3, 6, 1, 4, 6]
+  },
+  {
+    year: 1988,
+    days: [31, 29, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31],
+    start: [6, 2, 3, 6, 1, 4, 6, 2, 5, 7, 3, 5]
   }
 ]
 
-const year = years[0];
+const yearBefore = years.find(y => y.year === (route.params.year * 1 - 1));
+const year = years.find(y => y.year === route.params.year * 1) || years[0];
+const yearAfter = years.find(y => y.year === (route.params.year * 1 + 1));
 
 </script>
 <template>
   <IContainer fluid class="star-background" style="min-height: calc(100vh - 110px)">
-    <h1 class=" d3 _margin-top:2 _margin-bottom:1 _text-align:center">
-      Calendar {{ year.year }}
+    <h1 class=" d3 _margin-top:2 _margin-bottom:1 _align-items:center _flex _justify-content:center!">
+      <IButton circle :class="yearBefore ? '' : 'hidden'" :to="'/calendar/'+yearBefore?.year"> < </IButton>
+      &nbsp;
+      <span class="_sm:hidden _md:visible">Calendar </span>&nbsp;{{ year.year }}
+      &nbsp;
+      <IButton circle :class="yearAfter ? '' : 'hidden'" :to="'/calendar/'+yearAfter?.year"> > </IButton>
     </h1>
     <IContainer>
       <IRow>
@@ -45,5 +57,8 @@ const year = years[0];
   </IContainer>
 </template>
 
-<style lang="scss">
+<style lang="scss" scoped>
+.hidden {
+  opacity: 0;
+}
 </style>

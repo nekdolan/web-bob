@@ -44,7 +44,7 @@ const visible = ref(false);
       <template #footer>
         <div v-if="dateInfo.sources.length === 1">
           Source:
-          <nuxt-link external :href="dateInfo.sources[0].link" target="_blank" class="_display:inline-block">
+          <nuxt-link external :href="dateInfo.sources[0].link" target="_blank">
             {{ dateInfo.sources[0].name }}
           </nuxt-link>
         </div>
@@ -57,6 +57,10 @@ const visible = ref(false);
               {{ link.name }}
             </template>
           </ITooltip>
+        </div>
+        <div>
+          Participants:
+          {{ dateInfo.participants.join(', ') }}
         </div>
       </template>
     </IPopover>

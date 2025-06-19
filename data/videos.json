@@ -371,5 +371,12 @@
     "file": "jeremy_corbell_documentary_2018",
     "type": "documentary",
     "year": 2018
+  },
+  {
+    "name": "Dark Matters with guest George Knapp",
+    "link": "https://www.youtube.com/watch?v=ZF_yg3OzYLE",
+    "file": "dark_matters_1992",
+    "type": "interview",
+    "year": 1992
   }
 ]

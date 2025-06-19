@@ -141,7 +141,8 @@ useSeoMeta({
                   see any feet, and the hoodie was extremely pronounced and created a triangle between the
                   top of the head and the shoulders. Since everything was homogeneous light except for the
                   eyes, only the contour of the being was visible so any dimensionality is simply implied by the
-                  humanoid appearance. I also seem to recall a very thin slightly more dim aura around the
+                  humanoid appearance. In my head I heard my mind in my voice saying: "They are real."
+                  I also seem to recall a very thin slightly more dim aura around the
                   being. The shape and color of the eyes as well as the dark environment are the parts of my
                   memory that I am least certain of. Everything else I can still easily recall. I estimate this
                   experience to have taken approximately 15 to 30 seconds.<br>
@@ -167,15 +168,15 @@ useSeoMeta({
                   to say what I saw, but I will share my best guess that I have come up with.<br>
                   Firstly, I saw a circle in the center of my vision. Everything around the circle was pulsating
                   energy which was going inside the circle, like a reversed hollow Sun. My deduction for this is
-                  that this is simply a focus point which is also called the third eye (best guess doesn't mean it
-                  is a good guess).<br>
+                  that this is simply a focus point which is also called the third eye (that is my best guess).<br>
                   Second, I saw a snout specifically a reptilian snout. The image came and went by very
                   quickly, but my therapist did ask me about it and I did reluctantly say that I saw a reptilian. I
                   don't know why and honestly, I don't want to know why.
                   Third, I saw something that resembled the Entity or at least the outside shape of the glowing
                   being. This shape was stuck to the bottom of my vision so once again I could not see any
-                  feet. That's pretty much all that I saw<br>
-                  UPDATE<br>
+                  feet. That's pretty much all that I saw. After I returned home I got a vision of a dude (imagine a German
+                  farmer) who told me "you just had a heart attack". That's all he said and he was gone.<br><br>
+                  <b>UPDATE (march 2025)</b><br>
                   After about two years I've decided to do another hypnotherapy session with the same therapist.
                   Since the first session I have been meditating daily and I have experienced much less resistance
                   this time and a lot less headaches afterwards. I also did not have any third eye visions the second time.
@@ -190,6 +191,12 @@ useSeoMeta({
                   The reason why they looked different to me compared to how they looked in my original experience,
                   was that since I have changed since then I can see more of what they look like and that their appearance
                   generally is based on who is observing them rather than them having a physical from.<br>
+                  <br><br>
+                  <b>UPDATE (june 2025)</b><br>
+                  I asked a medium about an entity I've felt during a random dream and I described the dream vaguely and they said
+                  this entity was either an ancestor of mine on the father's side or an interdimensional Pleiadian who has
+                  been with me since the age of 7. These descriptions do fit the only two entities that have communicated words to me.
+                  Afterwards I've checked if my story can be found using my name and the answer is no. Only my 2022 book comes up.
                 </p>
               </ICollapsibleItem>
             </ICollapsible>
