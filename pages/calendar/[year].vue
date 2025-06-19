@@ -33,7 +33,7 @@ const yearAfter = years.find(y => y.year === (route.params.year * 1 + 1));
     <IContainer>
       <IRow>
       <IColumn
-          xs="12" sm="12" md="6" lg="3"
+          xs="12" sm="6" md="6" lg="4" xl="3"
           v-for="(month, index) in months"
       >
         <h5 class="_text-transform:capitalize _text:center"> {{month}} </h5>
