@@ -143,7 +143,7 @@
     "type": "work",
     "text": "Bob Lazar made a trip during which he saw the disc-shaped craft for the first time and was exposed to classified files. A reference to John Lear appears in his notes for that day, but the reason for it is unclear, although Lear would later say that Bob visited him after the trip and disclosed information about the disk to him.",
     "participants": ["BL", "JL"],
-    "sources": ["new_line_cinema_interview_1993", "art_bell_john_lear_2003"]
+    "sources": ["new_line_cinema_interview_1993", "art_bell_john_lear_2003", "john_lear_tells_all_2_2008"]
   },
   {
     "year": 1989,
@@ -161,9 +161,9 @@
     "day": 24,
     "title": "Trip to S4",
     "type": "work",
-    "text": "On the day Bob Lazar returned from Los Alamos he went out to work at S4 once again.",
+    "text": "On the day Bob Lazar returned from Los Alamos he went out to work at S4 once again. Jonh Lear possibly received a drawing of an event of Bob seeing an ET at this trip.",
     "participants": ["BL"],
-    "sources": ["new_line_cinema_interview_1993"]
+    "sources": ["new_line_cinema_interview_1993", "john_lear_tells_all_2_2008"]
   },
   {
     "year": 1989,
@@ -324,7 +324,7 @@
     "day": 10,
     "title": "First Polygraph Test",
     "type": "interview",
-    "text": "Bob Lazar's first polygraph test presumably with polygraph expert Terry Tavernetti.",
+    "text": "Bob Lazar's first polygraph test with polygraph expert Terry Tavernetti.",
     "participants": ["BL", "TT"],
     "sources": ["new_line_cinema_interview_1993"]
   },
@@ -334,7 +334,7 @@
     "day": 13,
     "title": "Second Polygraph Test",
     "type": "interview",
-    "text": "Bob Lazar's second polygraph test presumably with polygraph expert Terry Tavernetti.",
+    "text": "Bob Lazar's second polygraph test with polygraph expert Terry Tavernetti.",
     "participants": ["BL", "TT"],
     "sources": ["new_line_cinema_interview_1993"]
   },
@@ -342,9 +342,9 @@
     "year": 1989,
     "month": 6,
     "day": 22,
-    "title": "Hypnosis session",
+    "title": "First Hypnosis Session",
     "type": "interview",
-    "text": "Hypnosis session by Lane Keck where Lazar speaks about the information related to gravity generators and the reactor.",
+    "text": "Hypnosis session by Lane Keck where Lazar speaks about the information related to gravity generators and the reactor. (1/3)",
     "participants": ["BL", "LK"],
     "sources": ["jeremy_corbell_documentary_2018"]
   },
@@ -352,11 +352,11 @@
     "year": 1989,
     "month": 9,
     "day": 10,
-    "title": "Hypnosis session",
+    "title": "Second hypnosis session",
     "type": "interview",
-    "text": "Hypnosis session by Lane Keck where Lazar speaks about the information from the ETs such as individuals planted on Earth in the past.",
-    "participants": ["BL", "GH", "LK"],
-    "sources": ["hypnosis_1989"]
+    "text": "Hypnosis session by Lane Keck where Lazar speaks about the information from the ETs such as individuals planted on Earth in the past. (2/3)",
+    "participants": ["BL", "GH", "LK", "JL"],
+    "sources": ["hypnosis_1989", "john_lear_tells_all_2_2008"]
   },
   {
     "year": 1988,

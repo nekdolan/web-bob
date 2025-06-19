@@ -24,11 +24,11 @@ const yearAfter = years.find(y => y.year === (route.params.year * 1 + 1));
 <template>
   <IContainer fluid class="star-background" style="min-height: calc(100vh - 110px)">
     <h1 class=" d3 _margin-top:2 _margin-bottom:1 _align-items:center _flex _justify-content:center!">
-      <IButton circle :class="yearBefore ? '' : 'hidden'" :to="'/calendar/'+yearBefore?.year"> < </IButton>
+      <IButton circle :disabled="!yearBefore" :class="yearBefore ? '' : 'hidden'" :to="'/calendar/'+yearBefore?.year"> < </IButton>
       &nbsp;
       <span class="_sm:hidden _md:visible">Calendar </span>&nbsp;{{ year.year }}
       &nbsp;
-      <IButton circle :class="yearAfter ? '' : 'hidden'" :to="'/calendar/'+yearAfter?.year"> > </IButton>
+      <IButton circle :disabled="!yearAfter" :class="yearAfter ? '' : 'hidden'" :to="'/calendar/'+yearAfter?.year"> > </IButton>
     </h1>
     <IContainer>
       <IRow>
