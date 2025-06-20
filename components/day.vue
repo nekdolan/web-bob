@@ -22,7 +22,7 @@ const visible = ref(false);
 <template>
   <span v-if="props.week * 7 + props.day >= props.year.start[props.month] && day <= props.year.days[month]">
     <IPopover v-if="dateInfo" class="record" v-model:visible="visible" events="manual"
-              @click:outside="visible = false" :class="visible ? 'no-tooltip':''" placement="right-start">
+              @click:outside="visible = false" :class="visible ? 'no-tooltip':''" >
       <ITooltip @click="visible = !visible">
         <span :class="dateInfo.type" class="record-body">
           {{ day }}
@@ -72,6 +72,9 @@ const visible = ref(false);
 </template>
 
 <style lang="scss">
+.navbar-header {
+  z-index: 100 !important;
+}
 .popover {
   z-index: 10000;
 }
