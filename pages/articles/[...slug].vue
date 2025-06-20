@@ -45,7 +45,7 @@ watch(() => imageModal.value, () => {
     </IContainer>
     <IModal v-model="imageModal" size="lg">
       <template #header> Image Preview </template>
-      <NuxtImg :src="imageModalSrc || imageModalSrcReal" class="_image:responsive" />
+      <NuxtImg densities="1x" :src="imageModalSrc || imageModalSrcReal" class="_image:responsive" />
     </IModal>
   </IContainer>
 </template>
