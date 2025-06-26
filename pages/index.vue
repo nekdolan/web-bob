@@ -25,7 +25,7 @@ useSeoMeta({
     <IContainer fluid :style="backgroundArea51" class="adjusted">
       <IContainer class="main-header _display:flex _align-items:center">
         <div class="_flex-grow:1">
-          <div class="d1 _text-align:center _color:black _text:uppercase _text-decoration:underline _margin-bottom:2">
+          <div class="d1 _text-align:center _color:black _text:uppercase _text-decoration:underline _margin-bottom:2 _padding-top:1">
             Bob Lazar Vindicated
           </div>
           <div class="_border-width:3 _text:lg _border-radius:3 _padding:1/2 transparent-black-bg title-container" >
