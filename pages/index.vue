@@ -19,6 +19,7 @@ useSeoMeta({
   title: "Bob Lazar Vindicated",
   description: "This website is dedicated to the UFO whistleblower Robert Scott Lazar."
 })
+const infoVisible = ref(true);
 </script>
 <template>
   <ILayoutContent>
@@ -29,7 +30,11 @@ useSeoMeta({
             Bob Lazar Vindicated
           </div>
           <div class="_border-width:3 _text:lg _border-radius:3 _padding:1/2 transparent-black-bg title-container" >
-            <div class="_margin:1 _float:left main-legend">
+            <IToast v-model="infoVisible" class="_margin-left:1/2" color="dark" size="md">
+              Available Now:
+              <nuxt-link to="/articles/fasight" @click="infoVisible = false">Remote Viewing of Lazar by Farsight</nuxt-link>
+            </IToast>
+            <div class="_margin:1 _margin-left:1/2 _float:left main-legend">
               <NuxtImg class="star-background" src="/images/photo/lazar2nobg.png" width="300" format="webp" />
             </div>
             <div class="_padding-left:1/2">
