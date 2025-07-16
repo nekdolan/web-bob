@@ -1,18 +1,10 @@
-.star-background {
+.star-background2 {
   background-image: url(/images/background/stars3.jpg);
   background-repeat: repeat;
   background-attachment: fixed;
-  animation: scroll-left 1s ease-out 1 forwards;
-}
-.blockquote audio {
-  max-width: 100%;
+  transition: background-position 1s ease-out;
 }
 
-@keyframes scroll-left {
-  0% {
-    background-position: 0 0;
-  }
-  100% {
-    background-position: -100px 0;
-  }
+.blockquote audio {
+  max-width: 100%;
 }

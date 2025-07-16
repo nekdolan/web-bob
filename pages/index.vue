@@ -29,45 +29,48 @@ const infoVisible = ref(true);
           <div class="d1 _text-align:center _color:black _text:uppercase _text-decoration:underline _margin-bottom:2 _padding-top:1">
             Bob Lazar Vindicated
           </div>
-          <div class="_border-width:3 _text:lg _border-radius:3 _padding:1/2 transparent-black-bg title-container" >
-            <IToast v-model="infoVisible" class="_margin-left:1/2" color="dark" size="md">
+          <div class="_border-width:3 _text:lg _border-radius:3 transparent-black-bg title-container" >
+            <IToast v-model="infoVisible" class="_margin:0!" color="dark" size="md">
               Available Now:
               <nuxt-link to="/articles/fasight" @click="infoVisible = false">Remote Viewing of Lazar by Farsight</nuxt-link>
             </IToast>
-            <div class="_margin:1 _margin-left:1/2 _float:left main-legend">
-              <NuxtImg class="star-background" src="/images/photo/lazar2nobg.png" width="300" format="webp" />
-            </div>
-            <div class="_padding-left:1/2">
-              <div class="d5 _margin-top:3/4">Introduction</div>
-              <p>
-                Bob Lazar is a former Los Alamos Labs technician, business owner, and self-proclaimed physicist who
-                allegedly worked on reverse-engineering UFOs in the late 1980s at a location he called S4, near
-                Papoose Lake, just south of Area 51 at Groom Lake, Nevada. He has been referred to as the
-                "original whistleblower," but others labeled him a fraud, liar, grifter and more.
-              </p>
-              <p>
-                This website was created to dissolve the confusion surrounding Lazar's story by using primary sources, documents, and thoughtful analysis,
-                so that all may have access to the historical material and are able to paint a more balanced picture of the man.
-              </p>
-              <p>
-                In the <NuxtLink to="/#answers">Answers</NuxtLink> section we have a list of common charges Lazar has been accused of and the appropriate
-                answer or rebuttal to the charge.
-                In the <NuxtLink to="/articles">Articles</NuxtLink> section you can find primary research related to Lazar's life and history.
-                In the <NuxtLink to="/library">Library</NuxtLink> you can search for information related to Lazar's story using radio and movie
-                transcripts and books as sources.<br>
-                For anyone who has never heard of Lazar I recommend the video "Best of Ufo Whistleblower Bob Lazar" in
-                the <NuxtLink to="/videos">videos</NuxtLink> section to start with.
-                <IPopover>
-                  <IButton link color="primary" class="_padding:0" style="margin-top: -4px">
-                    <IIcon name="ink-info" />
-                  </IButton>
-                  <template #body>
-                    Background by Doc Searls;<br>
-                    Licensed under the Creative Commons Attribution 2.0 Generic license;
-                    Source: <NuxtLink target="_blank" href="https://commons.wikimedia.org/wiki/File:Groom_Lake_and_Papoose_Lake.jpg" external>Link</NuxtLink>
-                  </template>
-                </IPopover>
-              </p>
+            <div class="_padding:1/2 _padding-top:0!">
+              <div class="_margin:1 _margin-left:1/2 _float:left main-legend">
+                <NuxtImg class="star-background" src="/images/photo/lazar2nobg.png" width="300" format="webp" />
+              </div>
+              <div class="_padding-left:1/2">
+                <div class="d5 _margin-top:3/4">Introduction</div>
+                <p>
+                  Bob Lazar is a former Los Alamos Labs technician, business owner, and self-proclaimed physicist who
+                  allegedly worked on reverse-engineering UFOs in the late 1980s at a location he called S4, near
+                  Papoose Lake, just south of Area 51 at Groom Lake, Nevada. He has been referred to as the
+                  "original whistleblower," but others labeled him a fraud, liar, grifter and more.
+                </p>
+                <p>
+                  This website was created to dissolve the confusion surrounding Lazar's story by using primary sources, documents, and thoughtful analysis,
+                  so that all may have access to the historical material and are able to paint a more balanced picture of the man.
+                </p>
+                <p>
+                  In the <NuxtLink to="/#answers">Answers</NuxtLink> section we have a list of common charges Lazar has been accused of and the appropriate
+                  answer or rebuttal to the charge.
+                  In the <NuxtLink to="/articles">Articles</NuxtLink> section you can find primary research related to Lazar's life and history.
+                  In the <NuxtLink to="/library">Library</NuxtLink> you can search for information related to Lazar's story using radio and movie
+                  transcripts and books as sources.<br>
+                  For anyone who has never heard of Lazar I recommend the video "Best of Ufo Whistleblower Bob Lazar" in
+                  the <NuxtLink to="/videos">videos</NuxtLink> section to start with.
+                  <IPopover>
+                    <IButton link color="primary" class="_padding:0" style="margin-top: -4px">
+                      <IIcon name="ink-info" />
+                    </IButton>
+                    <template #body>
+                      Background by Doc Searls;<br>
+                      Licensed under the Creative Commons Attribution 2.0 Generic license;
+                      Source: <NuxtLink target="_blank" href="https://commons.wikimedia.org/wiki/File:Groom_Lake_and_Papoose_Lake.jpg" external>Link</NuxtLink>
+                    </template>
+                  </IPopover>
+                </p>
+              </div>
+
             </div>
           </div>
         </div>

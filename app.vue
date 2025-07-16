@@ -1,9 +1,13 @@
 <script setup>
-
+const router = useRouter();
+const { offset, move } = useBgPos();
+router.afterEach(() => {
+  move();
+});
 </script>
 
 <template>
-  <ILayout>
+  <ILayout class="star-background2" :style="{ backgroundPosition: `${offset}px 0`}">
     <ILayoutHeader>
       <INavbar class="_position:fixed-top _width:100vw navbar-header">
         <INavbarBrand to="/">
