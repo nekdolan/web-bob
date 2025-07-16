@@ -31,7 +31,7 @@ const infoVisible = ref(true);
           <div class="_border-width:3 _text:lg _border-radius:3 transparent-black-bg title-container" >
             <IToast v-model="infoVisible" class="_margin:0!" color="dark" size="md">
               Available Now:
-              <nuxt-link to="/articles/fasight" @click="infoVisible = false">Remote Viewing of Lazar by Farsight</nuxt-link>
+              <nuxt-link to="/articles/farsight" @click="infoVisible = false">Remote Viewing of Lazar by Farsight</nuxt-link>
             </IToast>
             <div class="_padding:1/2 _padding-top:0!">
               <div class="_margin:1 _margin-left:1/2 _float:left main-legend">
