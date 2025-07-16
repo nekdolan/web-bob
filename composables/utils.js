@@ -1,7 +1,7 @@
 export const useBgPos = () => {
     const offset = useState('background-offset', () => 0)
-    const move = () => {
-        offset.value += 200;
+    const move = (num) => {
+        offset.value += num || 100;
     }
     return {
         offset,

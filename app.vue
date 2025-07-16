@@ -1,8 +1,10 @@
 <script setup>
 const router = useRouter();
 const { offset, move } = useBgPos();
-router.afterEach(() => {
-  move();
+const lastRoute = ref('');
+router.afterEach((to, from) => {
+  move(lastRoute.value === to.fullPath ? -100 : 100);
+  lastRoute.value = lastRoute.value === to.fullPath ? '' : from.fullPath.toString();
 });
 </script>
 

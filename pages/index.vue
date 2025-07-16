@@ -14,7 +14,6 @@ const backgroundArea51 = computed(() => {
   const imgUrl = img('/images/background/area51ai.jpg', { width: 1920, quality: 75, format: 'webp' })
   return `background: center / cover url('${imgUrl}')`
 })
-const animationPaused = ref(true);
 useSeoMeta({
   title: "Bob Lazar Vindicated",
   description: "This website is dedicated to the UFO whistleblower Robert Scott Lazar."
