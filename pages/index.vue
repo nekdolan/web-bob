@@ -181,8 +181,7 @@ const infoVisible = ref(true);
                   don't know why and honestly, I don't want to know why.
                   Third, I saw something that resembled the Entity or at least the outside shape of the glowing
                   being. This shape was stuck to the bottom of my vision so once again I could not see any
-                  feet. That's pretty much all that I saw. After I returned home I got a vision of a dude (imagine a German
-                  farmer) who told me "you just had a heart attack". That's all he said and he was gone.<br><br>
+                  feet. That's pretty much all that I saw.
                   <b>UPDATE (march 2025)</b><br>
                   After about two years I've decided to do another hypnotherapy session with the same therapist.
                   Since the first session I have been meditating daily and I have experienced much less resistance
@@ -201,9 +200,7 @@ const infoVisible = ref(true);
                   <br><br>
                   <b>UPDATE (june 2025)</b><br>
                   I asked a medium about an entity I've felt during a random dream and I described the dream vaguely and they said
-                  this entity was either an ancestor of mine on the father's side or an interdimensional Pleiadian who has
-                  been with me since the age of 7. These descriptions do fit the only two entities that have communicated words to me.
-                  Afterwards I've checked if my story can be found using my name and the answer is no. Only my 2022 book comes up.
+                  this entity was probably an interdimensional Pleiadian who has been with me since the age of 7.
                 </p>
               </ICollapsibleItem>
             </ICollapsible>
