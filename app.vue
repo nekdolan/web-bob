@@ -1,15 +1,16 @@
 <script setup>
-const router = useRouter();
-const { offset, move } = useBgPos();
-const lastRoute = ref('');
-router.afterEach((to, from) => {
-  move(lastRoute.value === to.fullPath ? -100 : 100);
-  lastRoute.value = lastRoute.value === to.fullPath ? '' : from.fullPath.toString();
-});
+// const router = useRouter();
+// const { offset, move } = useBgPos();
+// const lastRoute = ref('');
+// router.afterEach((to, from) => {
+//   move(lastRoute.value === to.fullPath ? -100 : 100);
+//   lastRoute.value = lastRoute.value === to.fullPath ? '' : from.fullPath.toString();
+// });
 </script>
 
 <template>
-  <ILayout class="star-background2" :style="{ backgroundPosition: `${offset}px 0`}">
+<!--  <ILayout class="star-background2" :style="{ backgroundPosition: `${offset}px 0`}">-->
+  <ILayout class="star-background2">
     <ILayoutHeader>
       <INavbar class="_position:fixed-top _width:100vw navbar-header">
         <INavbarBrand to="/">

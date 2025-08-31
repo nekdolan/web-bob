@@ -1,10 +1,26 @@
-.star-background2 {
-  background-image: url(/images/background/stars3.jpg);
-  background-repeat: repeat;
-  background-attachment: fixed;
-  transition: background-position 0.5s ease-out;
-}
+//.star-background2 {
+//  background-image: url(/images/background/stars3.jpg);
+//  background-repeat: repeat;
+//  background-attachment: fixed;
+//  transition: background-position 0.5s ease-out;
+//}
 
 .blockquote audio {
   max-width: 100%;
 }
+
+.star-background2 {
+  background-image: url(/images/background/stars3.jpg);
+  background-repeat: repeat;
+  background-attachment: fixed;
+  //animation: scroll-left 150s linear infinite;
+}
+//
+//@keyframes scroll-left {
+//  0% {
+//    background-position: 0 0;
+//  }
+//  100% {
+//    background-position: -1778px 0;
+//  }
+//}
