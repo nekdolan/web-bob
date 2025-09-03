@@ -60,4 +60,25 @@ watch(() => imageModal.value, () => {
   width: initial !important;
   max-width: initial !important;
 }
+@media screen and (max-width: 1200px) {
+  .content-doc {
+    h1, h2, h3, h4 {
+      padding-top: 88px; margin-top: -88px;
+    }
+  }
+  .star-background {
+    padding: 0;
+    & > div.container {
+      width: 100%;
+      margin: 0;
+      padding-left: 0;
+      padding-right: 0;
+      & > h1 {
+        padding-left: 0.5em;
+        padding-right: 0.5em;
+      }
+    }
+  }
+}
+
 </style>
