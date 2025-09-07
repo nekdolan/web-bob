@@ -56,6 +56,12 @@ watch(() => imageModal.value, () => {
     padding-top: 110px; margin-top: -110px;
   }
 }
+.modal-wrapper {
+  z-index: 10000 !important;
+  img {
+    max-height: 80vh;
+  }
+}
 .modal-wrapper .modal {
   width: initial !important;
   max-width: initial !important;
