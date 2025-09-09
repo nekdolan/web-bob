@@ -1,0 +1,106 @@
+[
+  {
+    "name": "Disclosure Dialogue with Rob Simone and Dan Burisch",
+    "link": "https://www.youtube.com/watch?v=KyJJCfoNN50",
+    "file": "db_disclosure_dialogue_2011",
+    "type": "interview",
+    "year": 2011,
+    "legend": "burisch"
+  },
+  {
+    "name": "Bill Hamilton interviews Dan Burisch",
+    "link": "https://www.youtube.com/watch?v=7Ro3cVrRmxo",
+    "file": "db_bill_interview_2002",
+    "transcript": "db_bill_hamilton.txt",
+    "sources": [
+      "https://web.archive.org/web/20050902194945/http://solder.ath.cx/Burisch/interviews/html/video_transcript_sept18_2002.html"
+    ],
+    "type": "interview",
+    "year": 2002,
+    "month": "september",
+    "legend": "burisch"
+  },
+  {
+    "name": "Out from under Majestic: Dan Burisch uncensored",
+    "link": "https://www.youtube.com/watch?v=2A_X_D4i6lc",
+    "file": "db_out_from_majestic_2006",
+    "transcript": "db_out_from_under_majestic.txt",
+    "sources": [
+      "https://projectcamelot.org/lang/en/dan_burisch_interview_transcript_1_en.html",
+      "https://projectcamelot.org/lang/en/dan_burisch_interview_transcript_2_en.html",
+      "https://projectcamelot.org/lang/en/dan_burisch_interview_transcript_3_en.html"
+    ],
+    "month": "july",
+    "type": "interview",
+    "year": 2006,
+    "legend": "burisch"
+  },
+  {
+    "name": "The Military UFO Files of C Ron Garner",
+    "link": "https://www.youtube.com/watch?v=nr249ZNSUMQ",
+    "file": "db_ron_garner_2010",
+    "type": "interview",
+    "year": 2010,
+    "legend": "burisch"
+  },
+  {
+    "name": "Dan Burisch Interview by Bill Hamilton and Ron Garner in Vegas",
+    "link": "https://www.youtube.com/watch?v=W_QYNeYhsYI",
+    "file": "db_bill_ron_garner_2001",
+    "type": "interview",
+    "year": 2001,
+    "legend": "burisch"
+  },
+  {
+    "name": "Dan Burisch Project Interview by Kerry Lynn Cassidy",
+    "link": "https://www.youtube.com/watch?v=6Tzpu1HU7wg",
+    "file": "db_project_camelot_2007",
+    "transcript": "db_stargate_secrets.txt",
+    "sources": [
+      "https://projectcamelot.org/lang/en/dan_burisch_stargate_secrets_interview_transcript_1_en.html",
+      "https://projectcamelot.org/lang/en/dan_burisch_stargate_secrets_interview_transcript_2_en.html"
+    ],
+    "type": "interview",
+    "month": "june",
+    "year": 2007,
+    "legend": "burisch"
+  },
+  {
+    "name": "Dan Burisch/Marci McDowell Zürich Workshop",
+    "link": "https://youtu.be/COHwyROLry4",
+    "file": "db_zurich_workshop_2009",
+    "transcript": "db_zurich_workshop.txt",
+    "sources": [
+      "https://projectcamelot.org/lang/en/dan_burisch_marci_mcdowell_zurich_2009_transcript_en.html"
+    ],
+    "type": "interview",
+    "month": "july",
+    "year": 2009,
+    "legend": "burisch"
+  },
+  {
+    "name": "Ufo Documentary 2015 Dan Burisch talks about ET Craft at Area S4!",
+    "link": "https://www.youtube.com/watch?v=njYTZaO2KH0",
+    "file": "db_marcia_interview_2015",
+    "type": "interview",
+    "year": 2015,
+    "legend": "burisch"
+  },
+  {
+    "name": "The Dan Burisch SAGA - Dan Burisch & Bill Hamilton (RenseRadio)",
+    "link": "https://www.youtube.com/watch?v=AYyEhKlVLWM",
+    "file": "db_jeff_rense_interview_2006",
+    "type": "interview",
+    "year": 2006,
+    "month": "july",
+    "legend": "burisch"
+  },
+  {
+    "name": "Dan Burisch and Marcia McDowell on The Kevin Smith Show",
+    "link": "https://www.youtube.com/watch?v=tN2KqVO5BTE",
+    "file": "db_kevin_smith_2008",
+    "type": "interview",
+    "year": 2008,
+    "legend": "burisch"
+  }
+]

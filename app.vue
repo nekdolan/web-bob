@@ -24,6 +24,7 @@
             <INavItem to="/videos"> Videos </INavItem>
             <INavItem to="/calendar/1989"> Calendar </INavItem>
             <INavItem to="/#about" external> About Me </INavItem>
+            <INavItem to="/db" external> DB </INavItem>
           </INav>
         </INavbarCollapsible>
       </INavbar>
@@ -35,11 +36,6 @@
 <style lang="scss">
 .navbar-header {
   z-index: 2001;
-  //@media screen and (max-width: 1200px) {
-  //  .navbar-brand > img {
-  //    max-width: 200px;
-  //  }
-  //}
 }
 .nuxt-page {
   margin-top: 110px; // 88

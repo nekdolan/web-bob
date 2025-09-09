@@ -2,6 +2,8 @@ import answers from "~/data/answers.json"
 import texts from "~/data/texts.json"
 import videos from "~/data/videos.json"
 import dates from "~/data/dates.json"
+import textsDb from "~/data/texts-db.json"
+import videosDb from "~/data/videos-db.json"
 const sources = [...texts, ...videos];
 const people = {
   JV: 'Joe Vaninetti', BL: 'Bob Lazar', GH: 'Gene Huff', GK: 'George Knapp', JL: 'John Lear', JT: 'Jim Tagliani',
@@ -11,6 +13,8 @@ export default defineAppConfig({
   answers,
   texts,
   videos,
+  textsDb,
+  videosDb,
   dates: dates.map(date => {
     return {
       ...date,
