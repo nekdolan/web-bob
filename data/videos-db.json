@@ -102,5 +102,22 @@
     "type": "interview",
     "year": 2008,
     "legend": "burisch"
+  },
+  {
+    "name": "Dr Dan Burisch, Sc D lecture at CalTech",
+    "link": "https://www.youtube.com/watch?v=9QDNyQk4IKA",
+    "file": "db_caltech_2008",
+    "type": "interview",
+    "year": 2008,
+    "month": "march",
+    "legend": "burisch"
+  },
+  {
+    "name": "(2005) The Dan Burisch Debriefing Video",
+    "link": "https://www.youtube.com/watch?v=JEr0Z8OPBI4",
+    "file": "db_debrief_2005",
+    "type": "interview",
+    "year": 2005,
+    "legend": "burisch"
   }
 ]
