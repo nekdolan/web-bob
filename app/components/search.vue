@@ -3,18 +3,18 @@ import debounce from 'lodash.debounce';
 import Hits from "~/components/hits.vue";
 const props = defineProps(['collection', 'sources', 'title']);
 const sources = props.sources;
-const router = useRouter()
-const route = useRoute()
-const search = ref(route.query.q || '')
-const page = ref((route.query.p * 1) || 1)
+const router = useRouter();
+const route = useRoute();
+const search = ref(route.query.q || '');
+const page = ref((route.query.p * 1) || 1);
 const q = computed(() => {
   return search.value;
-})
+});
 const p = computed(() => {
   return page.value;
-})
+});
 const pageSize = 20;
-const { data = {}, status } = await useLazyAsyncData('search', () => {
+const { data = {}, status } = await useLazyAsyncData(`search_${props.collection}`, () => {
   if (q.value?.length >= 3) {
     return $fetch('https://gsdufojxqj.execute-api.us-east-1.amazonaws.com/dev/search', {
       query: { q: q.value, p: p.value, s: pageSize, c: props.collection || 'lazar' }
@@ -23,13 +23,13 @@ const { data = {}, status } = await useLazyAsyncData('search', () => {
   return {};
 }, {
   server: false, watch: [q, p]
-})
+});
 const debouncedHandler = debounce(event => {
   search.value = event.target.value;
   page.value = 1;
   router.push({query: {q: search.value, p: 1}})
 }, 500);
-watch(() => page.value, (value) => router.push({query: {q: search.value, p: value}}))
+watch(() => page.value, (value) => router.push({query: {q: search.value, p: value}}));
 </script>
 <template>
   <IContainer fluid class="star-background" style="min-height: calc(100vh - 110px)">

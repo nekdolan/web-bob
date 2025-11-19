@@ -186,6 +186,25 @@
     "year": 2002,
     "month": "november",
     "legend": "burisch"
+  },
+  {
+    "name": "PROJECT AQUARIUS document by Michael Schratt",
+    "author": "Michael Schratt ",
+    "link": "https://avalonlibrary.net/Dan_Burisch/Dan_Burisch_S4_Project_Aquarius_by_Michael_Schratt_Open_Minds_2010_smaller.pdf",
+    "file": "db_project_aquarius",
+    "type": "interview",
+    "year": 2010,
+    "month": "november",
+    "legend": "burisch"
+  },
+  {
+    "name": "Alien Disclosure at Area 51 by Ronald Garner",
+    "author": "Ronald Garner",
+    "link": "https://avalonlibrary.net/ebooks/C.%20Ronald%20Garner%20-%20Alien%20Disclosure%20at%20Area%2051%20-%20Dr%20Dan%20Burisch%20Reveals%20the%20Truth%20About%20ETs,%20UFOs%20and%20MJ-12.pdf",
+    "file": "db_alien_disclosure",
+    "type": "interview",
+    "year": 2010,
+    "month": "november",
+    "legend": "burisch"
   }
-
 ]

@@ -119,5 +119,13 @@
     "type": "interview",
     "year": 2005,
     "legend": "burisch"
+  },
+  {
+    "name": "Project Aquarius Documentary by Michael Schratt",
+    "link": "https://www.youtube.com/watch?v=6SPLwJb4zvQ",
+    "file": "db_schratt_2011",
+    "type": "documentary",
+    "year": 2011,
+    "legend": "burisch"
   }
 ]
