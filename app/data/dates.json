@@ -539,6 +539,16 @@
     "sources": ["new_line_cinema_interview_1993"]
   },
   {
+    "year": 1988,
+    "month": 11,
+    "day": 2,
+    "title": "Bob meeting with John Lear",
+    "type": "interview",
+    "text": "John Lear made a note saying: meeting with Bob Lazar November 2nd 1988",
+    "participants": ["BL", "JL"],
+    "sources": ["john_lear_tells_all_2_2008"]
+  },
+  {
     "year": 0,
     "month": 0,
     "day": 0,
