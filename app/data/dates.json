@@ -543,7 +543,7 @@
     "month": 11,
     "day": 2,
     "title": "Bob meeting with John Lear",
-    "type": "interview",
+    "type": "meeting",
     "text": "John Lear made a note saying: meeting with Bob Lazar November 2nd 1988. In Bob's calendar Lear is mentioned early November.",
     "participants": ["BL", "JL"],
     "sources": ["john_lear_tells_all_2_2008", "new_line_cinema_interview_1993"]
