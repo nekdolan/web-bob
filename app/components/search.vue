@@ -40,6 +40,10 @@ watch(() => page.value, (value) => router.push({query: {q: search.value, p: valu
             <ICollapsible>
               <ICollapsibleItem>
                 <template #header><IIcon class="_vertical-align:text-top" name="ink-warning" /> Information</template>
+                <p v-if="props.collection === 'lazar'">
+                  For more sources please chek out the
+                  <NuxtLink to="https://ngsearch.uaprw.com/" external target="_blank">UFO Newsgroups Archive</NuxtLink>.
+                </p>
                 <p>
                   All sources in the library have been verified, however most videos have been transcribed using AI
                   and may contain errors or have less content than the original. Discernment is advised.
