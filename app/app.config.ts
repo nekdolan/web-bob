@@ -7,7 +7,8 @@ import videosDb from "~/data/videos-db.json"
 const sources = [...texts, ...videos];
 const people = {
   JV: 'Joe Vaninetti', BL: 'Bob Lazar', GH: 'Gene Huff', GK: 'George Knapp', JL: 'John Lear', JT: 'Jim Tagliani',
-  LK: 'Layne Keck', BG: 'Billy Goodman', TT: 'Terry Tavernetti', DM: 'Dennis Mariani', ET: 'Edward Teller'
+  LK: 'Layne Keck', BG: 'Billy Goodman', TT: 'Terry Tavernetti', DM: 'Dennis Mariani', ET: 'Edward Teller',
+  SF: 'Stanton Friedman'
 }
 export default defineAppConfig({
   answers,

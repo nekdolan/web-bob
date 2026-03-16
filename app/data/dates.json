@@ -67,6 +67,16 @@
   },
   {
     "year": 1989,
+    "month": 6,
+    "day": 30,
+    "title": "MUFON 1989 International UFO Symposium",
+    "text": "MUFON 1989 International UFO Symposium has taken place in Las Vegas between June 30 to July 2 hosted by John Lear. According to Stanton Friedman him and Lazar arranged a meeting at the symposium, but Lazar never came.",
+    "type": "meeting",
+    "participants": ["JL", "SF"],
+    "sources": ["hansson_1991", "area_2000_art_bell_1993"]
+  },
+  {
+    "year": 1989,
     "month": 11,
     "day": 29,
     "title": "People break into Bob's car",
