@@ -12,12 +12,6 @@ import Embed from "~/components/content/Embed.vue";
           <Embed id="LXBxFTvOFFk" title="Best of Ufo Whistleblower Bob Lazar" />
         </IColumn>
       </IRow>
-      <IRow>
-        <IColumn class="_background-color:gray-900 _border-radius:1 _padding-bottom:1">
-          <h1 class="_margin-top:1 _text-align:center">Was Bob Lazar a scientist?</h1>
-          <Embed id="cu5jsUK13Ts" title="Was Bob Lazar a scientist?" />
-        </IColumn>
-      </IRow>
     </IContainer>
   </IContainer>
 
