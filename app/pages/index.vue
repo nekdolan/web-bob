@@ -197,10 +197,6 @@ const infoVisible = ref(true);
                   The reason why they looked different to me compared to how they looked in my original experience,
                   was that since I have changed since then I can see more of what they look like and that their appearance
                   generally is based on who is observing them rather than them having a physical from.<br>
-                  <br><br>
-                  <b>UPDATE (june 2025)</b><br>
-                  I asked a medium about an entity I've felt during a random dream and I described the dream vaguely and they said
-                  this entity was probably an interdimensional Pleiadian who has been with me since the age of 7.
                 </p>
               </ICollapsibleItem>
             </ICollapsible>

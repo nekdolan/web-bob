@@ -12,6 +12,12 @@ import Embed from "~/components/content/Embed.vue";
           <Embed id="LXBxFTvOFFk" title="Best of Ufo Whistleblower Bob Lazar" />
         </IColumn>
       </IRow>
+      <IRow>
+        <IColumn class="_background-color:gray-900 _border-radius:1 _margin-bottom:1 _padding-bottom:1">
+          <h1 class="_margin-top:1 _text-align:center">Remote Viewing Bob Lazar</h1>
+          <Embed id="uN0RiudkjEk" title="Remote Viewing Bob Lazar" />
+        </IColumn>
+      </IRow>
     </IContainer>
   </IContainer>
 
