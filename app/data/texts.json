@@ -134,5 +134,13 @@
     "file": "hansson_1991",
     "type": "blog",
     "year": 1991
+  },
+  {
+    "name": "1989 letter from George Knapp",
+    "author": "George Knapp",
+    "link": "https://medium.com/@signalsintelligence/a-1989-letter-from-george-knapp-adds-new-detail-around-bob-lazars-early-claims-regarding-his-e7f45c6469a9",
+    "file": "knapp_letter_1989",
+    "type": "book",
+    "year": 1989
   }
 ]
